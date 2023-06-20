@@ -1,8 +1,8 @@
-<header>
+
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
     <div class="container">
       <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       {%- if titles_size > 0 -%}
@@ -24,4 +24,15 @@
       {%- endif -%}
     </div>
   </nav>
+
+<header class="masthead">
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <!-- <div class="col-12 text-center">
+        <h1 class="fw-light">Vertically Centered Masthead Content</h1>
+        <p class="lead">A great starter layout for a landing page</p>
+      </div> -->
+    </div>
+  </div>
 </header>
+
