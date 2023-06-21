@@ -1,6 +1,7 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Creative Forum" # the name of your site, e.g. ACME Corp.
+url: "" 
+baseurl: "" 
+title: "The Creative Forum" 
+subtitle: "Yale Department of Spanish & Portuguese"
 
 author:
     name: Yale Department of Spanish & Portuguese
