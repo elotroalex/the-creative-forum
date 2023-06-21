@@ -40,7 +40,11 @@ banner: homepage.png
         </p>
       </div>
       <div class="row">
-        {% for event in site.encounters %}
+        <!-- liquid loop through pages in the category 'encounters' -->
+        <!-- select the two pages with the closest dates -->
+        <!-- end loop -->
+        {% for event in site.encounters %} {% if forloop.index > 2 %} {% break
+        %} {% endif %}
         <div class="col-sm-6">
           <div class="card mb-2">
             <img
