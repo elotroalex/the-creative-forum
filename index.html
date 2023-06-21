@@ -8,7 +8,7 @@ banner: homepage.png
 <div class="section bg-light p-4">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col col-8">
+      <div class="col col-10">
         <h1 class="text-center">Welcome.</h1>
         <p>
           Now more than ever, we are asked to think about our cultures and
@@ -30,7 +30,7 @@ banner: homepage.png
 <div class="section bg-white p-4">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col col-8">
+      <div class="col col-12">
         <h2 class="">Up next...</h2>
         <p class="">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta eius
@@ -38,6 +38,25 @@ banner: homepage.png
           eaque eligendi! Rerum error ipsa esse officiis voluptatem optio
           assumenda itaque?
         </p>
+      </div>
+      <div class="row">
+        {% for event in site.encounters %}
+        <div class="col-sm-6">
+          <div class="card mb-2">
+            <img
+              class="card-img-top"
+              src="/images/encounters/{{event.image}}"
+              alt="Card image cap"
+              height="120"
+              style="object-fit: cover"
+            />
+            <div class="card-body">
+              <h5 class="card-title">{{event.title}}</h5>
+              <p class="card-text">{{event.description}}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>

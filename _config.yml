@@ -1,10 +1,15 @@
-url: "" 
-baseurl: "" 
-title: "The Creative Forum" 
+url: ""
+baseurl: ""
+title: "The Creative Forum"
+future: true
 
 author:
-    name: Yale Department of Spanish & Portuguese
+  name: Yale Department of Spanish & Portuguese
+
+collections:
+  encounters:
+    output: true
 
 sass:
-    load_paths: 
-        - _sass
+  load_paths:
+    - _sass
