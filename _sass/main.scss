@@ -42,12 +42,15 @@ h1, h2, h3, h4 {
 .banner {
     height: 100vh;
     min-height: 500px;
-
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 2rem;
-  }
+}
+
+.masthead.short {
+    margin: 20vh 0 10vh 0;
+}
 
 .masthead h1, .masthead .lead {
     animation: fadeInAnimation ease 4s;

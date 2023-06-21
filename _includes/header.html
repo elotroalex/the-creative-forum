@@ -1,4 +1,4 @@
-<header class="masthead {% if banner %}banner{% endif %}" style="background-image: url('/images/{{page.banner}}');">
+<header class="masthead {% if page.banner %}banner{%else%}short{% endif %}" style="background-image: url('/images/{{page.banner}}');">
   {% include navbar.html %}
 
   <div class="container h-100">
@@ -8,7 +8,8 @@
         <h1 class="fw-light display-1" 
         data-mdb-toggle="animation" data-mdb-animation-reset="true" data-mdb-animation="fade-in-left"
         data-mdb-animation-start="onLoad">{{page.title}}</h1>
-        <p class="lead">of the Yale Department of Spanish & Portuguese</p>
+        {% if page.subtitle %}<p class="lead">{{page.subtitle}}</p>
+        {% endif %}
       </div>
     </div>
   </div>
