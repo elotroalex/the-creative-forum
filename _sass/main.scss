@@ -30,6 +30,17 @@ h1, h2, h3, h4 {
     font-family: 'Mallory Light';
 }
 
+// Masthead
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('/images/homepage.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 2rem;
+  }
 
 .masthead h1, .masthead .lead {
     animation: fadeInAnimation ease 4s;
@@ -57,17 +68,13 @@ h1, h2, h3, h4 {
 
 }
 
+// Navbar
+
 .navbar-brand {
     color: #00365b;
 }
 
-.masthead {
-    height: 100vh;
-    min-height: 500px;
-    background-image: url('/images/homepage.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-bottom: 2rem;
-  }
+
+
+
   
