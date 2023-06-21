@@ -40,11 +40,11 @@ banner: homepage.png
         </p>
       </div>
       <div class="row">
-        <!-- liquid loop through pages in the category 'encounters' -->
-        <!-- select the two pages with the closest dates -->
+        <!-- liquid loop through pages in the collection 'encounters' -->
+        <!-- select the two pages with the closest dates in the future -->
         <!-- end loop -->
-        {% for event in site.encounters %} {% if forloop.index > 2 %} {% break
-        %} {% endif %}
+        {% assign encounters = site.encounters | where_exp: "item", "item.date
+        >= site.time" | sort: "date" | limit: 2 %} {% for event in encounters %}
         <div class="col-sm-6">
           <div class="card mb-2">
             <img
@@ -56,11 +56,41 @@ banner: homepage.png
             />
             <div class="card-body">
               <h5 class="card-title">{{event.title}}</h5>
+              <h6 class="card-subtitle mb-2 text-muted">
+                {{event.date | date: "%B %-d, %Y"}}
+              </h6>
               <p class="card-text">{{event.description}}</p>
+              <div class="row justify-content-md-center">
+                <div class="col-sm-5">
+                  <a href="{{event.url}}" class="card-link"
+                    ><button type="button" class="btn btn-outline-primary">
+                      Learn more
+                    </button></a
+                  >
+                </div>
+                <div class="col-sm-5">
+                  <a
+                    href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{event.title}}&details={{event.description}}&dates={{ event.calendar }}&location={{event.location}}"
+                    target="_blank"
+                    ><button type="button" class="btn btn-outline-primary">
+                      Add to Calendar
+                    </button></a
+                  >
+                </div>
+              </div>
             </div>
           </div>
         </div>
         {% endfor %}
+      </div>
+      <div class="row mt-2">
+        <p class="text-center">
+          <a href="/encounters/" target="_blank"
+            ><button type="button" class="btn btn-primary">
+              See All Events
+            </button></a
+          >
+        </p>
       </div>
     </div>
   </div>
