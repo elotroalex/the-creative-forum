@@ -30,6 +30,15 @@ h1, h2, h3, h4 {
     font-family: 'Mallory Light';
 }
 
+.masthead h1 {
+    -webkit-text-stroke: 1px #00365b; /* width and color */
+}
+
+.masthead .lead {
+    color: #f9f9f9;
+    font-size: 1.4rem;
+}
+
 .navbar-brand {
     color: #00365b;
 }
