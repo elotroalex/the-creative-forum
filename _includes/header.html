@@ -2,10 +2,11 @@
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-<nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top opacity-75">
   <div class="container">
-    <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <small>{{ site.subtitle | escape }}</small>
+    <div>
+    <a class="h1 navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
     {%- if titles_size > 0 -%}
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -23,6 +24,7 @@
       </ul>
     </div>
     {%- endif -%}
+    
   </div>
 </nav>
 
