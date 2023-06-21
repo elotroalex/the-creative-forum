@@ -2,6 +2,13 @@
 @import "vars";
 @import "bootstrap-5.3.0/scss/bootstrap.scss";
 
+/* Bootstrap Overrides */
+
+$theme-colors: (
+  "primary": #00365b,
+  "danger": #ff4136
+);
+
 /* Custom Styles */
 
 
@@ -75,12 +82,12 @@ nav {
 
 nav.scrolled {
     background-color: #00365b !important;
-    opacity: 1 !important;
+    opacity: .9 !important;
 }
 
 .navbar-brand {
     color: #00365b;
-    transition: color 0.4s ease-in-out;
+    // transition: color 0.4s ease-in-out;
 }
 
 // nav.scrolled .navbar-brand {
