@@ -22,6 +22,11 @@ $theme-colors: (
     src: url(/assets/fonts/MalloryLight.ttf) format(truetype);
 }
 
+@font-face {
+    font-family: 'Mallory Book';
+    src: url(/assets/fonts/MalloryBook.ttf) format(truetype);
+}
+
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 
@@ -68,6 +73,7 @@ h1, h2, h3, h4 {
 }
 
 .masthead h1 {
+    font-family: 'Mallory Book';
     -webkit-text-stroke: 1px #00365b; /* width and color */
 
 }
