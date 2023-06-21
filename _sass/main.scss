@@ -30,13 +30,31 @@ h1, h2, h3, h4 {
     font-family: 'Mallory Light';
 }
 
+
+.masthead h1, .masthead .lead {
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
 .masthead h1 {
     -webkit-text-stroke: 1px #00365b; /* width and color */
+
 }
 
 .masthead .lead {
     color: #f9f9f9;
     font-size: 1.4rem;
+
 }
 
 .navbar-brand {
