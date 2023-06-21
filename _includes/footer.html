@@ -1,35 +1,52 @@
-<footer class="footer mt-auto py-1 bg-light">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<footer class="footer mt-auto py-1 bg-dark">
+  <data class="u-url" href="{{ '/' | relative_url }}"></data>
   <div class="container py-3">
     <div class="row">
       <div class="col">
-        {%- if site.author %}
+        <h2 class="text-white">The Creative Forum</h2>
         <ul class="contact-list list-unstyled">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
+          <li class="p-name text-light">Department of Spanish & Portuguese</li>
+          <li class="p-name text-light">Yale University</li>
+          <li>
+            <a class="u-email text-light" href="mailto:{{ site.author.email }}"
+              >thecreativeforum@yale.edu</a
+            >
+          </li>
         </ul>
-        {%- endif %}
-        <p class="feed-subscribe">
-          <a class="btn btn-orange text-white" href="{{ 'feed.xml' | relative_url }}">
-            <i class="bi bi-rss-fill"></i>
+
+        <!-- <p class="feed-subscribe">
+          <a
+            class="btn btn-orange text-white"
+            href="{{ 'feed.xml' | relative_url }}"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="16"
+              height="16"
+              fill="currentColor"
+              class="bi bi-rss-fill"
+              viewBox="0 0 16 16"
+            >
+              <path
+                d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 
+                2-2V2a2 2 0 0 0-2-2H2zm1.5 2.5c5.523 0 10 4.477 10 
+                10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2zm0 4a6 
+                6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 
+                0-2zm.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"
+              />
+            </svg>
             <span>Subscribe</span>
           </a>
+        </p> -->
+      </div>
+      <div class="col">
+        <p class="text-light">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil harum
+          officiis, rem quos voluptates expedita dolorem cupiditate fugiat nobis
+          beatae sapiente exercitationem blanditiis et ut enim perspiciatis
+          explicabo mollitia quas.
         </p>
       </div>
-      <div class="col">
-        <p>{{ site.description | escape }}</p>
-      </div>
     </div>
-    {%- if site.bootstrap.social_links -%}
-    <div class="row py-3">
-      <div class="col">
-        {%- include social.html -%}
-      </div>
-    </div>
-    {%- endif -%}
   </div>
 </footer>
