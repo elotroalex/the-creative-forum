@@ -1,10 +1,8 @@
-- title: Home
-  url: /
 - title: About
-  url: /about
-# - title: Programs
-#   url: #
+  url: /about.html
+- title: Programs
+  url: /programs.html
 - title: Encounters
-  url: /encounters
+  url: /encounters.html
 - title: Atelier
-  url: /atelier
+  url: /atelier.html

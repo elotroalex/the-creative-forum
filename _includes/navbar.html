@@ -10,22 +10,18 @@
           <ul id="navigation-bar" class="navbar-nav ms-auto mb-2 mb-lg-0">
               {% assign links = site.data.navigation %}
               {% for link in links %}
-                  {% assign active = nil %}
-                  {% if page.url contains link.url %}
-                      {% assign active = 'active' %}
-                  {% endif %}
                   {% if link.sublinks %}
-                  <li class="menu-item dropdown nav-item">
-                      <a href="#" class="dropdown-button" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span style="font-size: 0.66rem; padding-left: 0.2rem;"> &#x25BC;</span></a>
+                  <li class="menu-item dropdown nav-item ">
+                      <a href="#" class="dropdown-button " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span style="font-size: 0.66rem; padding-left: 0.2rem;"> &#x25BC;</span></a>
                       <div class="dropdown-menu">
                           {% for sublink in link.sublinks %}
-                          <a class="nav-link {{active}}" href="{{ sublink.url }}">{{ sublink.title }}</a>
+                          <a class="nav-link {% if sublink.url == page.url %}active{% endif %}" href="{{ sublink.url }}">{{ sublink.title }}</a>
                           {% endfor %}
                       </ul>
                   </li>
                   {% else %}
                   <li class="menu-item nav-item">
-                      <a class="nav-link {{active}}" href="{{ link.url }}" >{{ link.title }}</a>
+                      <a class="nav-link {% if link.url == page.url %}active{% endif %}" href="{{ link.url }}" >{{ link.title }}</a>
                   </li>
                   {% endif %}
               {% endfor %}
