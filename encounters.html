@@ -6,7 +6,6 @@ title: "Encounters"
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-10">
-      <div class="col col-10">
         <h2 class="">Up next...</h2>
         <p class="">
           We host a wide array of public events and speakers, bringing together
@@ -20,7 +19,7 @@ title: "Encounters"
         <!-- select the two pages with the closest dates in the future -->
         <!-- end loop -->
         {% for event in site.encounters %}
-        <div class="col-sm-6">
+        <div class="col-sm-12 col-md-6 col-lg-4">
           <div class="card mb-2">
             <img
               class="card-img-top"
@@ -36,14 +35,14 @@ title: "Encounters"
               </h6>
               <p class="card-text">{{event.description}}</p>
               <div class="row justify-content-md-center">
-                <div class="col-sm-5">
+                <div class="col">
                   <a href="{{event.url}}" class="card-link"
                     ><button type="button" class="btn btn-warning text-white">
                       Learn more
                     </button></a
                   >
                 </div>
-                <div class="col-sm-5">
+                <!-- <div class="col-sm-5">
                   <a
                     href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{event.title}}&details={{event.description}}&dates={{ event.calendar }}&location={{event.location}}"
                     target="_blank"
@@ -51,7 +50,7 @@ title: "Encounters"
                       Add to Calendar
                     </button></a
                   >
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
