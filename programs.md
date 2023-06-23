@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Programs"
-banner: programs.jpg
+banner: programs.png
 ---
 
 ## Our nascent programs
