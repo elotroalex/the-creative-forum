@@ -2,7 +2,7 @@
 layout: page
 title: The LatinLitBot
 date: 2023-04-01
-image: /images/latinlitbot.jpg
+image: bot1.jpg
 blurb: "A bot that announces new calls for submissions in literary magazines in Spanish in the United States."
 ---
 
