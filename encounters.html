@@ -18,7 +18,8 @@ title: "Encounters"
         <!-- liquid loop through pages in the collection 'encounters' -->
         <!-- select the two pages with the closest dates in the future -->
         <!-- end loop -->
-        {% for event in site.encounters %}
+        {% assign encounters = site.encounters | where_exp: "item", "item.date
+        >= site.time" | sort: "date" %}{% for event in encounters %}
         <div class="col-sm-12 col-md-6 col-lg-4">
           <div class="card mb-2">
             <img
@@ -42,15 +43,6 @@ title: "Encounters"
                     </button></a
                   >
                 </div>
-                <!-- <div class="col-sm-5">
-                  <a
-                    href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{event.title}}&details={{event.description}}&dates={{ event.calendar }}&location={{event.location}}"
-                    target="_blank"
-                    ><button type="button" class="btn btn-warning text-white">
-                      Add to Calendar
-                    </button></a
-                  >
-                </div> -->
               </div>
             </div>
           </div>

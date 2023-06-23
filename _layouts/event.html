@@ -4,14 +4,15 @@ layout: default
 
 <!-- Events Header -->
 <header
-  class="masthead {% if page.banner %}banner{%else%}short{% endif %}"
+  class="masthead short"
   style="background-image: url('/images/{{page.banner}}');"
 >
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <div class="col-12 text-center text-white">
+        <span class="h5 text-muted">the Creative Forum presents...</span>
         <h1
-          class="fw-light display-1"
+          class="fw-light display-4"
           data-mdb-toggle="animation"
           data-mdb-animation-reset="true"
           data-mdb-animation="fade-in-left"
@@ -20,7 +21,7 @@ layout: default
           {{page.title}}
         </h1>
         {% if page.subtitle %}
-        <p class="lead">{{page.subtitle}}</p>
+        <p class="lead text-primary">{{page.subtitle}}</p>
         {% endif %}
       </div>
     </div>
@@ -28,9 +29,37 @@ layout: default
 </header>
 
 <!-- Content -->
+{% if page.image %}
+<div
+  class="parallax mb-5"
+  style="background-image: url('/images/encounters/{{page.image}}'); background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;"
+></div>
+{% endif %}
 
 <div class="container">
-  <div class="row justify-content-center">
+  <div class="row justify-content-center mb-4">
+    <div class="col-8">
+      <p class="date h2">{{page.date | date: "%A, %b %d, %Y"}}</p>
+      <p class="time h3 text-muted">{{page.start-time}}</p>
+      <p class="location h3 text-muted">{{page.location}}</p>
+    </div>
+  </div>
+  <div class="row justify-content-center mb-4">
     <div class="col-8">{{content}}</div>
+  </div>
+  <div class="row justify-content-center mb-4">
+    <div class="col-8">
+      <a
+        href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{event.title}}&details={{event.description}}&dates={{ event.calendar }}&location={{event.location}}"
+        target="_blank"
+        ><button type="button" class="btn btn-warning text-white">
+          Add to Calendar
+        </button></a
+      >
+    </div>
   </div>
 </div>
