@@ -3,8 +3,8 @@ baseurl: ""
 title: "The Creative Forum"
 future: true
 
-author:
-  name: Yale Department of Spanish & Portuguese
+owner: Yale Department of Spanish & Portuguese
+email: creativeforum@yale.edu
 
 collections:
   encounters:
