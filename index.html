@@ -47,7 +47,7 @@ banner: homepage.png
         <!-- select the two pages with the closest dates in the future -->
         <!-- end loop -->
         {% assign encounters = site.encounters | where_exp: "item", "item.date
-        >= site.time" | sort: "date" | limit: 2 %} {% for event in encounters %}
+        >= site.time" | sort: "date" %} {% for event in encounters limit: 2 %}
         <div class="col-sm-6">
           <div class="card mb-2">
             <img

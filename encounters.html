@@ -4,51 +4,63 @@ title: "Encounters"
 ---
 
 <div class="container">
-  <div class="row justify-content-center">
+  <div class="row justify-content-center p-4">
     <div class="col-10">
-        <h2 class="">Up next...</h2>
-        <p class="">
-          We host a wide array of public events and speakers, bringing together
-          writers, artists, public activists, scholars and more. Here are some
-          of our upcoming encounters. To see a full list of our past and future
-          events, visit our <a href="/encounters/">encounters</a> page.
-        </p>
-      </div>
-      <div class="row">
-        <!-- liquid loop through pages in the collection 'encounters' -->
-        <!-- select the two pages with the closest dates in the future -->
-        <!-- end loop -->
-        {% assign encounters = site.encounters | where_exp: "item", "item.date
-        >= site.time" | sort: "date" %}{% for event in encounters %}
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-2">
-            <img
-              class="card-img-top"
-              src="/images/encounters/{{event.image}}"
-              alt="Card image cap"
-              height="120"
-              style="object-fit: cover"
-            />
-            <div class="card-body">
-              <h5 class="card-title">{{event.title}}</h5>
-              <h6 class="card-subtitle mb-2 text-muted">
-                {{event.date | date: "%B %-d, %Y"}}
-              </h6>
-              <p class="card-text">{{event.description}}</p>
-              <div class="row justify-content-md-center">
-                <div class="col">
-                  <a href="{{event.url}}" class="card-link"
-                    ><button type="button" class="btn btn-warning text-white">
-                      Learn more
-                    </button></a
-                  >
-                </div>
+      <h2 class="">Up next...</h2>
+      <p class="">
+        We host a wide array of public events and speakers, bringing together
+        writers, artists, public activists, scholars and more. Here are some of
+        our upcoming encounters. To see a full list of our past and future
+        events, visit our <a href="/encounters/">encounters</a> page.
+      </p>
+    </div>
+    <div class="row p-4">
+      <!-- liquid loop through pages in the collection 'encounters' -->
+      <!-- select the two pages with the closest dates in the future -->
+      <!-- end loop -->
+      {% assign encounters = site.encounters | where_exp: "item", "item.date >=
+      site.time" | sort: "date" %}{% for event in encounters %}
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card mb-2">
+          <img
+            class="card-img-top"
+            src="/images/encounters/{{event.image}}"
+            alt="Card image cap"
+            height="120"
+            style="object-fit: cover"
+          />
+          <div class="card-body">
+            <h5 class="card-title">{{event.title}}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">
+              {{event.date | date: "%B %-d, %Y"}}
+            </h6>
+            <p class="card-text">{{event.description}}</p>
+            <div class="row justify-content-md-center">
+              <div class="col">
+                <a href="{{event.url}}" class="card-link"
+                  ><button type="button" class="btn btn-warning text-white">
+                    Learn more
+                  </button></a
+                >
               </div>
             </div>
           </div>
         </div>
-        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center p-4">
+      <div class="col-10">
+        <h2 class="">Past encounters...</h2>
+        <ul>
+          {% assign encounters = site.encounters | where_exp: "item", "item.date <
+          site.time" | sort: "date" %}{% for event in encounters %}
+          <li class="past-event"><a href="{{event.url}}">{{event.title}}</a></li>
+          </li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
+
   </div>
 </div>
