@@ -10,7 +10,10 @@ title: "Encounters"
       <p class="">
         We host a wide array of public events and speakers, bringing together
         writers, artists, public activists, scholars and more. Here are some of
-        our upcoming encounters. If you would like to be notified of upcoming events, please sign up for our <a href="#">mailing list</a>. If you would like to propose an event, please contact us at <a href="mailto:{{site.email}}">{{site.email}}</a>.
+        our upcoming encounters. If you would like to be notified of upcoming
+        events, please sign up for our <a href="#">mailing list</a>. If you
+        would like to propose an event, please contact us at
+        <a href="mailto:{{site.email}}">{{site.email}}</a>.
       </p>
     </div>
     <div class="row p-4">
@@ -52,15 +55,13 @@ title: "Encounters"
       <div class="col-10">
         <h2 class="">Past encounters...</h2>
         <!-- prettier-ignore -->
-        <ul>          
+        <ul class="list-unstyled">          
           {% assign encounters = site.encounters | where_exp: "item", "item.date < site.time" | sort: "date" %}
           {% for event in encounters %}
           <li class="past-event"><a href="{{event.url}}">{{event.title}}</a></li>
-          </li>
           {% endfor %}
         </ul>
       </div>
     </div>
-
   </div>
 </div>
