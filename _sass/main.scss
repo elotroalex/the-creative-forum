@@ -67,10 +67,15 @@ h1, h2, h3, h4 {
     }
 }
 
-.masthead h1 {
+.masthead.page h1 {
+    font-family: 'Mallory Book';
+    font-size: 12vw;
+    -webkit-text-stroke: 1px #00365b; /* width and color */
+}
+
+.masthead.event h1 {
     font-family: 'Mallory Book';
     -webkit-text-stroke: 1px #00365b; /* width and color */
-
 }
 
 .masthead .lead {
