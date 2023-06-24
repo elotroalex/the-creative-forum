@@ -105,6 +105,13 @@ h1, h2, h3, h4 {
     }
 }
 
+.masthead.home h1 {
+    font-family: 'Mallory Book';
+    line-height: 12vh;
+    font-size: 10vw;
+    -webkit-text-stroke: 1px #00365b; /* width and color */
+}
+
 .masthead.page h1 {
     font-family: 'Mallory Book';
     font-size: 12vw;
