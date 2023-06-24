@@ -52,8 +52,42 @@ h1, h2, h3, h4 {
     margin: 20vh 0 10vh 0;
 }
 
+.masthead.home.banner {
+    animation: newImage ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes newImage {
+    0% {
+        background-image: url('/images/collage-outline.png');
+        opacity: .25;
+    }
+    20% {
+        background-image: url('/images/collage-outline.png');
+        opacity: .5;
+    }
+    40% {
+        background-image: url('/images/collage-outline.png');
+        opacity: .75;
+    }
+    60% {
+        background-image: url('/images/collage-outline.png');
+        opacity: 1;
+    }
+    80% {
+        background-image: url('/images/collage-color.png');
+        opacity: .75;
+    }
+    100% {
+        background-image: url('/images/collage-color.png');
+        opacity: 1;
+    }
+}
+
+
 .masthead h1, .masthead .lead {
-    animation: fadeInAnimation ease 4s;
+    animation: fadeInAnimation ease 6s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
