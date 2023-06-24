@@ -7,7 +7,7 @@ start-time: 4:00PM
 end-time: 5:00PM
 calendar: 20231001T160000/20231001T170000
 location: Humanities Quadrangle 137
-image: bird2.jpg
+banner: bird2.jpg
 poster: bird2.jpg
 ---
 

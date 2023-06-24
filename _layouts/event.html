@@ -4,15 +4,26 @@ layout: default
 
 <!-- Events Header -->
 <header
-  class="masthead event short"
-  style="background-image: url('/images/{{page.banner}}');"
+  class="masthead event {% if page.banner %}banner{%else%}short{% endif %}"
 >
-  <div class="container h-100">
-    <div class="row h-100 align-items-center">
+  {% if page.banner %}
+  <div
+    class="parallax mb-5"
+    style="background-image: url('/images/encounters/{{page.banner}}'); background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 2px solid black;
+  height: 50vh;"
+  ></div>
+  {% endif %}
+
+  <div class="container mt-5 mb-5">
+    <div class="row align-items-center">
       <div class="col-12 text-center text-white">
         <span class="h5 text-muted">the Creative Forum presents...</span>
         <h1
-          class="fw-light display-4"
+          class="fw-light display-5 text-primary"
           data-mdb-toggle="animation"
           data-mdb-animation-reset="true"
           data-mdb-animation="fade-in-left"
@@ -27,18 +38,6 @@ layout: default
     </div>
   </div>
 </header>
-
-<!-- Content -->
-{% if page.image %}
-<div
-  class="parallax mb-5"
-  style="background-image: url('/images/encounters/{{page.image}}'); background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 40vh;"
-></div>
-{% endif %}
 
 <div class="container">
   <div class="row justify-content-center mb-4">

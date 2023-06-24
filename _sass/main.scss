@@ -71,11 +71,19 @@ nav.scrolled {
 
 // Masthead
 
+
 .banner {
     height: 100vh;
     min-height: 500px;
     background-size: cover;
     border-bottom: 2px solid black;
+}
+
+.masthead.event.banner {
+    height: 100vh;
+    min-height: 200px;
+    background-size: cover;
+    border-bottom: 0;
 }
 
 .masthead.short {
