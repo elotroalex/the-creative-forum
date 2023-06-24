@@ -38,6 +38,37 @@ h1, h2, h3, h4 {
     font-family: 'Mallory Light';
 }
 
+// Navbar
+
+.home-nav-title {
+    display: none;
+}
+
+nav.scrolled .home-nav-title, nav.scrolled .nav-title {
+    display: inline;
+    color: $light !important;
+}
+
+@media screen and (max-width: 380px) {
+    .home-nav-title, .nav-title {
+        display: none;
+    }
+  }
+
+
+nav {
+    transition: background-color 0.4s ease-in-out;
+}
+
+nav.scrolled {
+    background-color: #00365b !important;
+    opacity: .9 !important;
+}
+
+.navbar-brand {
+    color: #00365b;
+}
+
 // Masthead
 
 .banner {
@@ -134,19 +165,7 @@ h1, h2, h3, h4 {
 
 }
 
-// Navbar
-nav {
-    transition: background-color 0.4s ease-in-out;
-}
 
-nav.scrolled {
-    background-color: #00365b !important;
-    opacity: .9 !important;
-}
-
-.navbar-brand {
-    color: #00365b;
-}
 
 // Buttons
 
