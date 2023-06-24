@@ -44,6 +44,7 @@ h1, h2, h3, h4 {
     height: 100vh;
     min-height: 500px;
     background-size: cover;
+    border-bottom: 2px solid black;
 }
 
 .masthead.short {
@@ -67,7 +68,7 @@ h1, h2, h3, h4 {
 }
 
 .final-image {
-    animation: secondImage ease 4s;
+    animation: finalImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
     background-image: url('/images/collage-color.png');
@@ -75,7 +76,7 @@ h1, h2, h3, h4 {
     height: 100vh;
 }
 
-@keyframes secondImage {
+@keyframes finalImage {
     0% {
         opacity: .0;
     }
@@ -85,9 +86,14 @@ h1, h2, h3, h4 {
 }
 
 
-.masthead h1, .masthead .lead {
+.masthead.home h1, .masthead .lead {
     animation: fadeInAnimation ease-in 4s;
-    animation-delay: 0, 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.masthead h1, .masthead .lead {
+    animation: fadeInAnimation ease-in 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
