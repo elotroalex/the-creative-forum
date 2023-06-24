@@ -173,7 +173,20 @@ nav.scrolled {
 
 }
 
+//  Featured Events
 
+.featured {
+    background-color: #F1E4D9;
+    min-height: 300px;
+    background-size: cover;
+    border-bottom: 0;
+}
+
+.featured-img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
 
 // Buttons
 
