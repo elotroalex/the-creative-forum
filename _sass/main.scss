@@ -44,8 +44,6 @@ h1, h2, h3, h4 {
     height: 100vh;
     min-height: 500px;
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .masthead.short {
@@ -53,41 +51,43 @@ h1, h2, h3, h4 {
 }
 
 .masthead.home.banner {
-    animation: newImage ease 4s;
+    background-image: url('/images/collage-outline.png');
+    animation: firstImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
 
-@keyframes newImage {
-    0% {
-        background-image: url('/images/collage-outline.png');
-        opacity: .25;
-    }
-    20% {
-        background-image: url('/images/collage-outline.png');
-        opacity: .5;
-    }
-    40% {
-        background-image: url('/images/collage-outline.png');
-        opacity: .75;
-    }
-    60% {
-        background-image: url('/images/collage-outline.png');
-        opacity: 1;
-    }
-    80% {
-        background-image: url('/images/collage-color.png');
-        opacity: .75;
+@keyframes firstImage {
+    0% {        
+        opacity: .1;
     }
     100% {
-        background-image: url('/images/collage-color.png');
+        opacity: 1;
+    }
+}
+
+.final-image {
+    animation: secondImage ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    background-image: url('/images/collage-color.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+@keyframes secondImage {
+    0% {
+        opacity: .0;
+    }
+    100% {
         opacity: 1;
     }
 }
 
 
 .masthead h1, .masthead .lead {
-    animation: fadeInAnimation ease 6s;
+    animation: fadeInAnimation ease-in 4s;
+    animation-delay: 0, 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
@@ -95,6 +95,10 @@ h1, h2, h3, h4 {
 @keyframes fadeInAnimation {
     0% {
         opacity: 0;
+    }
+
+    50% {
+        opacity: .3;
     }
     100% {
         opacity: 1;
