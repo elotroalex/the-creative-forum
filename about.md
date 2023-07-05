@@ -5,7 +5,7 @@ title: "About"
 
 ## Who we are
 
-The Creative Forum is an unlocated space at Yale for the exploration of the creative arts and scholarship. The Forum is housed at the Yale Department of Spanish & Portuguese, but welcomes all faculty, graduate researchers, undergraduate students and staff at Yale interested in the intesection of the creative arts and scholarship. Our doors are open to all collaborative, experimental, mobilized, public and digital humanities praxis. We are committed to the development of a community of practice that is inclusive, collaborative, interdisciplinary and oriented towards social justice.
+The Creative Forum is an unlocated space at Yale for the exploration of the creative arts, scholarship, and their interstices. The Forum is housed at the Yale Department of Spanish & Portuguese, but welcomes all faculty, graduate researchers, undergraduate students and staff at Yale enthused by burgeoning forms of collective, experimental, mobilized, public and digital humanities praxis. We are committed to the development of a community of practice that is inclusive, collaborative, interdisciplinary and oriented towards social justice and imaginative scholarship.
 
 Responsibility and moderation for The Creative Forum is shared by:
 
