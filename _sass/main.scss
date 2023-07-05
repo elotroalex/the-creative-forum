@@ -125,13 +125,19 @@ nav.scrolled {
 }
 
 
-.masthead.home h1, .masthead .lead {
+.masthead.home h1 {
+    animation: fadeInAnimation ease-in 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.atspanport {
     animation: fadeInAnimation ease-in 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
 
-.masthead h1, .masthead .lead {
+.masthead h1 {
     animation: fadeInAnimation ease-in 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
@@ -170,8 +176,10 @@ nav.scrolled {
 .masthead .lead {
     color: #f9f9f9;
     font-size: 1.4rem;
-    text-shadow: 5px 2px 5px black;
+}
 
+.atspanport {
+    text-shadow: 5px 2px 5px black;
 }
 
 //  Featured Events

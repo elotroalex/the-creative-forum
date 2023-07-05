@@ -18,9 +18,15 @@ layout: default
           >
             {{page.title}}
           </h1>
-          {% if page.subtitle %}
-          <p class="lead atspanport">{{page.subtitle}}</p>
-          {% endif %}
+          <p
+            class="lead atspanport"
+            data-mdb-toggle="animation"
+            data-mdb-animation-reset="true"
+            data-mdb-animation="fade-in-left"
+            data-mdb-animation-start="onLoad"
+          >
+            {{page.subtitle}}
+          </p>
         </div>
       </div>
     </div>
