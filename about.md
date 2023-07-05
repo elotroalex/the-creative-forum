@@ -17,7 +17,7 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities, Associate
 
 ## A brief history
 
-The Creative Forum was founded in 2022 at the initiative of the chair of the [Department of Spanish & Portuguese](https://span-port.yale.edu), Jesús Velasco. Soon after, he asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. That did not The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward.
+The Creative Forum was founded in 2022 at the initiative of the chair of the [Department of Spanish & Portuguese](https://span-port.yale.edu), Jesús Velasco. Soon after, he asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. Planning did not stop The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward.
 
 ## What we do
 
