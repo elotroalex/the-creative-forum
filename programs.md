@@ -18,7 +18,7 @@ Every semester, we will hold a series of workshops on digital and experimental h
 
 ### Talkshops
 
-Yale hosts amazing scholars and artists from all over the world every year. We want to put our own spin on the genre and make sure that we take advantage of their presence to learn a bit more from them through hands-on work. To that effect, we will organize a series of ¨ "talkshops," where we will invite colleagues to share their work with us, and run a small workshop. A talkshop can take many shapes. We want to explore those that can bring a creative twist to our research and scholarship, or help it speak to broader audiences. Here are some examples we're dreaming of: a creative writer workshopping a dissertation chapter; a radio journalist running a podcasting workshop; an activist helping us connect our scholarship to a community organization. We welcome your ideas for guests, formats and topics!
+Yale hosts amazing scholars and artists from all over the world every year. We want to put our own spin on the genre and make sure that we take advantage of their presence to learn a bit more from them through hands-on work. To that effect, we will organize a series of "talkshops," where we will invite colleagues to share their work with us, and run a small workshop. A talkshop can take many shapes. We want to explore those that can bring a creative twist to our research and scholarship, or help it speak to broader audiences. Here are some examples we're dreaming of: a creative writer workshopping a dissertation chapter; a radio journalist running a podcasting workshop; an activist helping us connect our scholarship to a community organization. We welcome your ideas for guests, formats and topics!
 
 ### Collective Research Sprints
 
