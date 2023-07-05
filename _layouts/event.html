@@ -48,10 +48,10 @@ layout: default
     </div>
   </div>
   <div class="row justify-content-center mb-4">
-    <div class="col-8">{{content}}</div>
+    <div class="col-sm-12 col-md-8">{{content}}</div>
   </div>
   <div class="row justify-content-center mb-4">
-    <div class="col-8 mb-5">
+    <div class="col-4 mb-5">
       <a
         href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{event.title}}&details={{event.description}}&dates={{ event.calendar }}&location={{event.location}}"
         target="_blank"
@@ -59,13 +59,15 @@ layout: default
           Add to Calendar
         </button></a
       >
-      {% if page.poster %}
+    </div>
+    {% if page.poster %}
+    <div class="col-4 mb-5">
       <a href="/images/encounters/{{page.poster}}" class="ps-2" target="_blank"
         ><button type="button" class="btn btn-warning text-white">
           Download Poster
         </button></a
       >
-      {% endif %}
     </div>
+    {% endif %}
   </div>
 </div>
