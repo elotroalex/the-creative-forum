@@ -34,7 +34,7 @@ banner: encounters.png
             <h6 class="card-subtitle mb-2 text-muted">
               {{event.date | date: "%B %-d, %Y"}}
             </h6>
-            <p class="card-text">{{event.description}}</p>
+            <p class="card-text">{{ event.description | markdownify }}</p>
             <div class="row justify-content-md-center">
               <div class="col">
                 <a href="{{event.url}}" class="card-link"

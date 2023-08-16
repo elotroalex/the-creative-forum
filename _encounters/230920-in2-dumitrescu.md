@@ -1,16 +1,16 @@
 ---
 layout: event
-title: "The 1st Iberian Night"
-description: "Book Night with Ada Kuskowski’s new book _Vernacular Law_. In conversation with Laurent Mayali and Tom Johnson. Introduction by Jesús R. Velasco."
-date: 2023-09-11
+title: "The 2nd Iberian Night"
+description: "Irina Dumitrescu in conversation with Casandra Garza Reséndez and Camila Roxana Marcone."
+date: 2023-09-20
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20230911T170000/20230911T190000
+calendar: 20230920T170000/20230920T190000
 location: Humanities Quadrangle 276
-banner: kuskowski.jpg
+banner: dumitrescu.jpg
 ---
 
-Book Night with Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023). In conversation with Laurent Mayali (Robbins Collection, Berkeley) and Tom Johnson (York, UK). Introduction by Jesús R. Velasco.
+Irina Dumitrescu (University of Bonn). In conversation with Casandra Garza Reséndez and Camila Roxana Marcone.
 
 ## Iberian Nights
 
