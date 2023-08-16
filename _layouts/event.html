@@ -14,7 +14,7 @@ layout: default
   background-repeat: no-repeat;
   background-size: cover;
   border-bottom: 2px solid black;
-  height: 50vh;"
+  height: 66vh;"
   ></div>
   {% endif %}
 
@@ -42,7 +42,9 @@ layout: default
 <div class="container">
   <div class="row justify-content-center mb-4">
     <div class="col-8">
+      {% if page.date %}
       <p class="date h2">{{page.date | date: "%A, %b %d, %Y"}}</p>
+      {% endif %}
       <p class="time h3 text-muted">{{page.start-time}}</p>
       <p class="location h3 text-muted">{{page.location}}</p>
     </div>
