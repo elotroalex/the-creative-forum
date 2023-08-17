@@ -17,27 +17,32 @@ layout: default
   height: 66vh;"
   ></div>
   {% endif %}
+</header>
 
-  <div class="container mt-5 mb-5">
-    <div class="row align-items-center">
-      <div class="col-12 text-center text-white">
-        <span class="h3 text-muted pb-5">the creative forum presents...</span>
-        <h1
-          class="fw-light display-5 text-primary"
-          data-mdb-toggle="animation"
-          data-mdb-animation-reset="true"
-          data-mdb-animation="fade-in-left"
-          data-mdb-animation-start="onLoad"
-        >
-          {{page.title}}
-        </h1>
-        {% if page.subtitle %}
-        <p class="lead text-primary">{{page.subtitle}}</p>
-        {% endif %}
-      </div>
+<div class="container mt-5 mb-5">
+  <div class="row align-items-center">
+    <div class="col-12 text-center text-white">
+      <span class="h3 text-muted pb-5">the creative forum presents...</span>
+      <h1
+        class="fw-light display-3 text-primary"
+        data-mdb-toggle="animation"
+        data-mdb-animation-reset="true"
+        data-mdb-animation="fade-in-left"
+        data-mdb-animation-start="onLoad"
+      >
+        {{page.title}}
+      </h1>
+      {% if page.subtitle %}
+      <p class="lead text-primary">{{page.subtitle}}</p>
+      {% endif %} {% if page.with %}
+
+      <span class="h3 text-muted pb-5">with...</span>
+      {% for person in page.with %}
+      <h2 class="fw-light display-5 text-primary">{{person}}</h2>
+      {% endfor %} {% endif %}
     </div>
   </div>
-</header>
+</div>
 
 <div class="container">
   <div class="row justify-content-center mb-4">
