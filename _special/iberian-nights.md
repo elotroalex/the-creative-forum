@@ -31,3 +31,4 @@ Our guests write from many directions, for many audiences, for many souls. Novel
 - [Yale Program in Early Modern Studies](https://earlymodern.yale.edu/)
 - [Yale Program in Medieval Studies](https://medieval.yale.edu/)
 - [Yale Department of Comparative Literature](https://complit.yale.edu/)
+- [Yale Department of French](https://french.yale.edu/)
