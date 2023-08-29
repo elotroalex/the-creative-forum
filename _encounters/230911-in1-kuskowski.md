@@ -10,7 +10,7 @@ location: Humanities Quadrangle 276
 banner: kuskowski.jpg
 ---
 
-Book Night with Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023). In conversation with Laurent Mayali (Robbins Collection, Berkeley) and Tom Johnson (York, UK). Introduction by Jesús R. Velasco.
+Book Night with Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023). In conversation with Laurent Mayali (UC Berkeley Law School), Lindsay Stern (Yale and Harvard), and Tom Johnson (York, UK).
 
 ## Iberian Nights
 
