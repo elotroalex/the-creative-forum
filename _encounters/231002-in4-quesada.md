@@ -1,25 +1,26 @@
 ---
 layout: event
-title: "The 1st Iberian Night"
-description: "Book Night with Ada Kuskowski’s new book _Vernacular Law_. In conversation with Laurent Mayali and Tom Johnson. Introduction by Jesús R. Velasco."
-date: 2023-09-11
+title: "The 4th Iberian Night"
+description: "With Sarah Quesada’s new book *The African Heritage of Latinx and Caribbean Literature*"
+date: 2023-10-02
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20230911T170000/20230911T190000
+calendar: 20231002T170000/20231002T190000
 location: Humanities Quadrangle 276
-banner: kuskowski.jpg
+banner: garcia-vazquez.jpg
 with:
-  - Ada Kuskowski
-  - Laurent Mayali
-  - Lindsay Stern
-  - Tom Johnson
+  - Sarah Quesada
+  - Jesús R. Velasco
+  - Daniela Jara
 ---
 
-Book Night with Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023). In conversation with Laurent Mayali (UC Berkeley Law School), Lindsay Stern (Yale and Harvard), and Tom Johnson (York, UK).
+With Sarah Quesada’s new book The African Heritage of Latinx and Caribbean Literature (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Daniela Jara.
 
-## Iberian Nights
+---
 
-### Book One: Literature and Survival
+### Iberian Nights
+
+#### Book One: Literature and Survival
 
 This series is inspired by the spirit of Sheherazade, Dhuoda, Christine de Pizan, Teresa de Cartagena, the pequeñas mujeres rojas and so many others for whom the practice of literature---in many of its facets---was the matter of survival. They existed in circumstances of physical and sexual violence, of civil war, of racial discrimination, of isolation; they also lived in circumstances that cannot be properly expressed outside their own experiments with literature.
 
