@@ -7,16 +7,24 @@ title: "About"
 
 The Creative Forum is an unlocated space at Yale for the exploration of the creative arts, scholarship, and their interstices. The Forum is housed at the Yale Department of Spanish & Portuguese, but welcomes all faculty, graduate researchers, undergraduate students and staff at Yale enthused by burgeoning forms of collective, experimental, mobilized, public and digital humanities praxis. We are committed to the development of a community of practice that is inclusive, collaborative, interdisciplinary and oriented towards social justice and imaginative scholarship.
 
-Responsibility and moderation for The Creative Forum is shared by:
+#### Responsibility and moderation:
 
 **Director of the Creative Forum**  
-The Chair of the Department of Spanish & Portuguese  
+The Chair of the Department of Spanish & Portuguese, currently,  
 [Jesús R. VELASCO](https://span-port.yale.edu/people/jesus-velasco)  
 Augustus R. Street Professor of Spanish & Portuguese and Comparative Literature
 
 **Associate Director of the Creative Forum**  
 [Alex GIL](https://span-port.yale.edu/people/alex-gil)  
 Senior Lecturer II & Associate Research Faculty of Digital Humanities
+
+#### Conveners, contributors, and creators:
+
+[Mayte López](https://span-port.yale.edu/people/mayte-lopez)  
+[Santiago Acosta](https://span-port.yale.edu/people/santiago-acosta)  
+[Alan Mendoza Sosa](https://span-port.yale.edu/people/alan-mendoza-sosa)  
+[Gaëlle Le Calvez House](https://span-port.yale.edu/people/gaelle-le-calvez-house)  
+You, soon we hope!
 
 ## A brief history
 
