@@ -5,7 +5,7 @@ title: "About"
 
 ## Who we are
 
-The Creative Forum is an unlocated space at Yale for the exploration of the creative arts, scholarship, and their interstices. The Forum is housed at the Yale Department of Spanish & Portuguese, but welcomes all faculty, graduate researchers, undergraduate students and staff at Yale enthused by burgeoning forms of collective, experimental, mobilized, public and digital humanities praxis. We are committed to the development of a community of practice that is inclusive, collaborative, interdisciplinary and oriented towards social justice and imaginative scholarship.
+The Creative Forum is an unlocated space at Yale for the exploration of the creative arts, scholarship, and their interstices. The Forum is housed at the Yale Department of Spanish & Portuguese, but welcomes all faculty, graduate researchers, undergraduate students and staff at Yale enthused by burgeoning forms of collective, experimental, mobilized, public and digital humanities praxis. We are committed to the development of a community of practice that is inclusive, collaborative, interdisciplinary and oriented towards social justice, the creative arts and imaginative scholarship.
 
 #### Responsibility and moderation:
 
@@ -20,10 +20,11 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities
 
 #### Conveners, contributors, and creators:
 
-[Mayte López](https://span-port.yale.edu/people/mayte-lopez)  
-[Santiago Acosta](https://span-port.yale.edu/people/santiago-acosta)  
-[Alan Mendoza Sosa](https://span-port.yale.edu/people/alan-mendoza-sosa)  
-[Gaëlle Le Calvez House](https://span-port.yale.edu/people/gaelle-le-calvez-house)  
+[Mayte LÓPEZ](https://span-port.yale.edu/people/mayte-lopez)  
+[Santiago ACOSTA](https://span-port.yale.edu/people/santiago-acosta)  
+[Alan MENDOZA SOSA](https://span-port.yale.edu/people/alan-mendoza-sosa)  
+[Gaëlle LE CALVEZ HOUSE](https://span-port.yale.edu/people/gaelle-le-calvez-house)
+[Katherina FRANGI](https://span-port.yale.edu/people/katherina-frangi)
 You, soon we hope!
 
 ## A brief history

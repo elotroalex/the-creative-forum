@@ -6,11 +6,15 @@ banner: programs.png
 
 ## Our nascent programs
 
-We designed four starter programs to help us get going. We want more, and are open to suggestions and collaborations. Please [get in touch](mailto:creativeforum@yale.edu) if you have ideas or would like to join us in any of these initiatives.
+We designed a few starter programs to help us get going. We want more, and are open to suggestions and collaborations. Please [get in touch](mailto:alex.gil@yale.edu) if you have ideas or would like to join us in any of these initiatives.
+
+### Literary Bites: A Creative Forum Luncheon Series
+
+Feast your mind and spirit on a delectable fusion of literature and intellectual nourishment with “Literary Bites,” a Literary Luncheon Series. We will bring together talented writers, scholars, and students for a unique fusion of literary discourse and intellectual community. At these monthly catered lunches, we aim to serve up thought-provoking conversations about past and ongoing projects, showcase Yale’s established and up-and-coming literary talents, and strive to transform our department into a thriving hub for literary creation. Come join us for a literary spread that will leave you savoring every word. To catch upcoming events, please [keep an eye out on our encounters page](/encounters).
 
 ### The Collaborative Research Incubator
 
-At the Forum, we believe that scholarship in the humanities has always been a collective endeavor. The production of books and academic articles is almost always the result of a long process of collaboration and exchange, with many intentions and layers of invisible labor at play. We would like to make this process a bit more visible, and more than that, to encourage the development of new forms of collective research, writing and production. To that effect, we invite proposals for collaborative research projects to be incubated at the Forum. If you have an idea, we might be able to help in various ways: to find collaborators, to find a way to publish your work, to shape the scope of the project realistically, and more. If you are a graduate researcher or undergraduate student, we encourage you to sign up for a group directed study with us. If you are a faculty colleague and you have an idea that exceeds the work of a solo scholar, reach out to us. To learn more, please reach out to us at [creativeforum@yale.edu](mailto:creativeforum@yale.edu).
+At the Forum, we believe that scholarship in the humanities has always been a collective endeavor. The production of books and academic articles is almost always the result of a long process of collaboration and exchange, with many intentions and layers of invisible labor at play. We would like to make this process a bit more visible, and more than that, to encourage the development of new forms of collective research, writing and production. To that effect, we invite proposals for collaborative research projects to be incubated at the Forum. If you have an idea, we might be able to help in various ways: to find collaborators, to find a way to publish your work, to shape the scope of the project realistically, and more. If you are a graduate researcher or undergraduate student, we encourage you to sign up for a group directed study with us. If you are a faculty colleague and you have an idea that exceeds the work of a solo scholar, reach out to us. To learn more, please [reach out to us](mailto:alex.gil@yale.edu).
 
 ### Digital and Experimental Methods Series
 
