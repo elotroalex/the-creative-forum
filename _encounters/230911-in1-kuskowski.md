@@ -1,15 +1,16 @@
 ---
 layout: event
 title: "The 1st Iberian Night"
-description: "Book Night with Ada Kuskowski’s new book _Vernacular Law_. In conversation with Laurent Mayali and Tom Johnson. Introduction by Jesús R. Velasco."
+description: "Book Night with Ada Kuskowski’s new book _Vernacular Law_"
 date: 2023-09-11
 start-time: 5:00PM
 end-time: 7:00PM
 calendar: 20230911T170000/20230911T190000
 location: Humanities Quadrangle 276
 banner: kuskowski.jpg
-with:
+featuring:
   - Ada Kuskowski
+with:
   - Laurent Mayali
   - Lindsay Stern
   - Tom Johnson

@@ -1,21 +1,21 @@
 ---
 layout: event
-title: "The 4th Iberian Night"
-description: "With Sarah Quesada’s new book *The African Heritage of Latinx and Caribbean Literature*"
-date: 2023-10-02
+title: "The 6th Iberian Night"
+description: "With Yuri Herrera’s new book *La estación del pantano*"
+date: 2023-10-16
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20231002T170000/20231002T190000
+calendar: 20231016T170000/20231016T190000
 location: Humanities Quadrangle 276
-banner: garcia-vazquez.jpg
+banner: yuri-herrera.jpg
 featuring:
-  - Sarah Quesada
+  - Yuri Herrera
 with:
-  - Jesús R. Velasco
-  - Daniela Jara
+  - Alan Mendoza Sosa
+  - Orit Gugenheim Katz
 ---
 
-With Sarah Quesada’s new book The African Heritage of Latinx and Caribbean Literature (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Daniela Jara.
+Book Night: With Yuri Herrera’s new book _La estación del pantano_ (Periférica, 2022). In conversation with Alan Mendoza Sosa and Orit Gugenheim Katz.
 
 ---
 

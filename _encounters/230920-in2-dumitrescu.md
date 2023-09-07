@@ -8,8 +8,9 @@ end-time: 7:00PM
 calendar: 20230920T170000/20230920T190000
 location: Humanities Quadrangle 276
 banner: dumitrescu.jpg
-with:
+featuring:
   - Irina Dumitrescu
+with:
   - Casandra Garza Reséndez
   - Camila Roxana Marcone
 ---

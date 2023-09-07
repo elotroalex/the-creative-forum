@@ -1,20 +1,21 @@
 ---
 layout: event
-title: "The 4th Iberian Night"
-description: "With Sarah Quesada’s new book *The African Heritage of Latinx and Caribbean Literature*"
-date: 2023-10-02
+title: "The 7th Iberian Night"
+description: "With Miguel Valerio’s new, award-winning book *Sovereign Joy*"
+date: 2023-10-23
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20231002T170000/20231002T190000
+calendar: 20231023T170000/20231023T190000
 location: Humanities Quadrangle 276
-banner: garcia-vazquez.jpg
+banner: valerio.jpg
+featured:
+  - Miguel Valerio
 with:
-  - Sarah Quesada
   - Jesús R. Velasco
-  - Daniela Jara
+  - Lisa Voigt.
 ---
 
-With Sarah Quesada’s new book The African Heritage of Latinx and Caribbean Literature (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Daniela Jara.
+Book Night: With Miguel Valerio’s new, award-winning book _Sovereign Joy_ (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Lisa Voigt.
 
 ---
 

@@ -35,9 +35,9 @@ layout: default
       {% if page.subtitle %}
       <p class="lead text-primary">{{page.subtitle}}</p>
       {% endif %} 
-      {% if page.featured %}
+      {% if page.featuring %}
       <span class="h3 text-muted pb-5">featuring</span>
-      {% for person in page.featured %}
+      {% for person in page.featuring %}
       <h2 class="fw-light display-4 text-primary text-right">{{person}}</h2>
       {% endfor %} {% endif %}
       {% if page.with %}
