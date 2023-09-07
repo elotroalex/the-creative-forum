@@ -23,6 +23,9 @@ layout: default
   <div class="row align-items-center">
     <div class="col-12 text-center text-white">
       <span class="h3 text-muted pb-5">the creative forum presents...</span>
+      {% if page.series %}
+      <span class="fw-light series text-muted">{{page.series}}</span>
+      {% endif %}
       <h1
         class="fw-light display-3 text-primary"
         data-mdb-toggle="animation"

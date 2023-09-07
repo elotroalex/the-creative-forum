@@ -1,6 +1,7 @@
 ---
 layout: event
 title: "The 7th Iberian Night"
+series: "Iberian Nights"
 description: "With Miguel Valerio’s new, award-winning book *Sovereign Joy*"
 date: 2023-10-23
 start-time: 5:00PM

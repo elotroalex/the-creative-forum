@@ -1,6 +1,7 @@
 ---
 layout: event
 title: "The 8th Iberian Night"
+series: "Iberian Nights"
 description: "Julie Stone Peters in conversation with Yijing Zhang and Martha Engvall"
 date: 2023-11-08
 start-time: 5:00PM

@@ -1,6 +1,7 @@
 ---
 layout: event
-title: "The 1st Iberian Night"
+title: "The 1st Night"
+series: "Iberian Nights"
 description: "Book Night with Ada Kuskowski’s new book _Vernacular Law_"
 date: 2023-09-11
 start-time: 5:00PM

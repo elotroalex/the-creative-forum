@@ -1,6 +1,7 @@
 ---
 layout: event
 title: "The 2nd Iberian Night"
+series: "Iberian Nights"
 description: "Irina Dumitrescu in conversation with Casandra Garza Reséndez and Camila Roxana Marcone."
 date: 2023-09-20
 start-time: 5:00PM

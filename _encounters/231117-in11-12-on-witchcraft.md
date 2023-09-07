@@ -2,6 +2,7 @@
 layout: event
 title: "The 11th and 12th Iberian Night"
 subtitle: "On Witchcraft"
+series: "Iberian Nights"
 description: "On Witchcraft"
 date: 2023-11-17
 start-time: 5:00PM
