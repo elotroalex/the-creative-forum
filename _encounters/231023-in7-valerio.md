@@ -1,21 +1,21 @@
 ---
 layout: event
-title: "The 5th Iberian Night"
-description: "Selby Wynn Schwartz in conversation with Inês Forjaz de Lacerda and Sofía Fernández González"
-date: 2023-10-09
+title: "The 7th Iberian Night"
+description: "With Miguel Valerio’s new, award-winning book *Sovereign Joy*"
+date: 2023-10-23
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20231009T170000/20231009T190000
+calendar: 20231023T170000/20231023T190000
 location: Humanities Quadrangle 276
-banner: schwartz.jpg
+banner: valerio.jpg
 featuring:
-  - Selby Wynn Schwartz
+  - Miguel Valerio
 with:
-  - Inês Forjaz de Lacerda
-  - Sofía Fernández González
+  - Jesús R. Velasco
+  - Lisa Voigt
 ---
 
-A night with Selby Wynn Schwartz (Stanford University). In conversation with Inês Forjaz de Lacerda and Sofía Fernández González.
+Book Night: With Miguel Valerio’s new, award-winning book _Sovereign Joy_ (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Lisa Voigt.
 
 ---
 

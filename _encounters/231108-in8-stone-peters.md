@@ -1,21 +1,21 @@
 ---
 layout: event
-title: "The 7th Iberian Night"
-description: "With Miguel Valerio’s new, award-winning book *Sovereign Joy*"
-date: 2023-10-23
+title: "The 8th Iberian Night"
+description: "Julie Stone Peters in conversation with Yijing Zhang and Martha Engvall"
+date: 2023-11-08
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20231023T170000/20231023T190000
+calendar: 20231108T170000/20231108T190000
 location: Humanities Quadrangle 276
-banner: valerio.jpg
-featured:
-  - Miguel Valerio
+banner: stone-peters.jpg
+featuring:
+  - Julie Stone Peters
 with:
-  - Jesús R. Velasco
-  - Lisa Voigt.
+  - Yijing Zhang
+  - Martha Engvall
 ---
 
-Book Night: With Miguel Valerio’s new, award-winning book _Sovereign Joy_ (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Lisa Voigt.
+Julie Stone Peters (Columbia University). In conversation with Yijing Zhang and Martha Engvall.
 
 ---
 
