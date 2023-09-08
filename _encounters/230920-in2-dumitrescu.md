@@ -9,6 +9,7 @@ end-time: 7:00PM
 calendar: 20230920T170000/20230920T190000
 location: Humanities Quadrangle 276
 banner: dumitrescu.jpg
+caption: "Banner image: Poetry embroidered on medical gauze, white on white, by a physician political prisoner from [The Sighet Memorial](https://turmemorialsighet.ro/?lang=en)."
 featuring:
   - Irina Dumitrescu
 with:
@@ -16,7 +17,24 @@ with:
   - Camila Roxana Marcone
 ---
 
-Irina Dumitrescu (University of Bonn). In conversation with Casandra Garza Reséndez and Camila Roxana Marcone.
+Join us for an evening with Irina Dumitrescu (University of Bonn) in conversation with Casandra Garza Reséndez and Camila Roxana Marcone.
+
+**Irina Dumitrescu** is a writer and the professor for medieval English
+literature at the University of Bonn. She is the author of _The
+Experience of Education in Anglo-Saxon Literature_ (Cambridge, 2018) and
+the editor of _Rumba Under Fire: The Arts of Survival from West Point to
+Delhi_ (Punctum, 2016). Irina is a columnist at the _Times Literary
+Supplement_ and co-hosts a podcast with Mary Wellesley at the _London
+Review of Books_. She also regularly contributes to the _New York
+Times_, _New York Review of Books_, _Los Angeles Review of Books_,
+_Longreads_, and _The Walrus._ Her work has been shortlisted for the
+James Beard Foundation's MFK Fisher Distinguished Writing Award,
+received the McGinnis-Ritchie Award for nonfiction, and was reprinted
+in *Best American Essays 2016*.
+
+---
+
+This event is the second night of our series...
 
 ## Iberian Nights
 

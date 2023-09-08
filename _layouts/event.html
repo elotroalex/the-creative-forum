@@ -8,7 +8,7 @@ layout: default
 >
   {% if page.banner %}
   <div
-    class="parallax mb-5"
+    class="parallax"
     style="background-image: url('/images/encounters/{{page.banner}}'); background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -16,6 +16,7 @@ layout: default
   border-bottom: 2px solid black;
   height: 66vh;"
   ></div>
+
   {% endif %}
 </header>
 
@@ -37,14 +38,12 @@ layout: default
       </h1>
       {% if page.subtitle %}
       <p class="h1 display-5 text-warning">{{page.subtitle}}</p>
-      <br>
-      {% endif %} 
-      {% if page.featuring %}
+      <br />
+      {% endif %} {% if page.featuring %}
       <span class="h3 text-muted pb-5">featuring</span>
       {% for person in page.featuring %}
       <h2 class="fw-light display-4 text-primary text-right">{{person}}</h2>
-      {% endfor %} {% endif %}
-      {% if page.with %}
+      {% endfor %} {% endif %} {% if page.with %}
       <span class="h3 text-muted pb-5">with</span>
       {% for person in page.with %}
       <h2 class="fw-light display-5 text-muted text-right">{{person}}</h2>
@@ -59,9 +58,7 @@ layout: default
       {% if page.date %}
       <p class="date h2">{{page.date | date: "%A, %b %d, %Y"}}</p>
       <p class="time h3 text-muted">{{page.start-time}} to {{page.end-time}}</p>
-      {% endif %}
-
-      {% if page.end-date %}
+      {% endif %} {% if page.end-date %}
       <p class="date h2">{{page.end-date | date: "%A, %b %d, %Y"}}</p>
       <p class="time h3 text-muted">{{page.end-date-time}}</p>
       {% endif %}
@@ -70,27 +67,29 @@ layout: default
     </div>
   </div>
   <div class="row justify-content-center mb-4">
-    <div class="col-sm-12 col-md-8">{{content}}
-      <br>
-      <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{page.title}}&details={{page.description}}&dates={{ page.calendar }}&location={{page.location}}"
-      target="_blank"
-      ><button type="button" class="btn btn-warning text-white">
-        Add to Calendar
-      </button></a>
-    {% if page.poster %}
-    <div class="col-4 mb-5">
+    <div class="col-sm-12 col-md-8">
+      {{content}}
+      <br />
+      <a
+        href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{page.title}}&details={{page.description}}&dates={{ page.calendar }}&location={{page.location}}"
+        target="_blank"
+        ><button type="button" class="btn btn-warning text-white">
+          Add to Calendar
+        </button></a
+      >
+      {% if page.poster %}
+
       <a href="/images/encounters/{{page.poster}}" class="ps-2" target="_blank"
         ><button type="button" class="btn btn-warning text-white">
           Download Poster
         </button></a
       >
 
+      {% endif %} {% if page.caption %}
+
+      <hr class="mt-5" />
+      <div class="caption text-muted h6">{{page.caption | markdownify }}</div>
+      {% endif %}
     </div>
-
-  </div>
-  {% endif %}
-  </div>
-
-
   </div>
 </div>
