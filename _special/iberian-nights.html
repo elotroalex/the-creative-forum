@@ -1,0 +1,127 @@
+---
+layout: custom
+title: "Iberian Nights"
+subtitle: "Book One: Literature and Survival"
+banner: "arabesque.jpeg"
+---
+
+<div class="container mt-5">
+  <div class="row justify-content-center p-4">
+    <div class="col-8">
+      <h2>Yale University | Fall 2023</h2>
+
+      <p>
+        This series is inspired by the spirit of Sheherazade, Dhuoda, Christine
+        de Pizan, Teresa de Cartagena, the pequeñas mujeres rojas and so many
+        others for whom the practice of literature---in many of its facets---was
+        the matter of survival. They existed in circumstances of physical and
+        sexual violence, of civil war, of racial discrimination, of isolation;
+        they also lived in circumstances that cannot be properly expressed
+        outside their own experiments with literature.
+      </p>
+
+      <p>
+        Our guests write from many directions, for many audiences, for many
+        souls. Novels, reviews, the lives of afrodescendent people, dance, race,
+        sexual violences, asylum briefs, and so many other forms of polyhedric
+        writing that explore the limits of literature---and those of survival.
+        They will be in conversation about their work, about their thought and,
+        certainly, about the joys and frustrations of the literary worlds they
+        inhabit.
+      </p>
+    </div>
+  </div>
+  <div class="row p-4">
+    <!-- liquid loop through pages in the collection 'encounters' -->
+    <!-- select the two pages with the closest dates in the future -->
+    <!-- end loop -->
+    {% assign encounters = site.encounters | where: "series", "Iberian Nights" |
+    sort: "date" %} {% for event in encounters %}
+    <div class="col-sm-12 col-md-6 col-lg-4">
+      <div class="card mb-2">
+        <img
+          class="card-img-top"
+          src="/images/encounters/{{event.banner}}"
+          alt="Card image cap"
+          height="120"
+          style="object-fit: cover"
+        />
+        <div class="card-body">
+          {% if event.series %}
+          <span class="fw-light series-thumb text-muted">{{event.series}}</span>
+          {% endif %}
+          <h5 class="card-title">{{event.title}}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">
+            {{event.date | date: "%B %-d, %Y"}}
+          </h6>
+          <p class="card-text">{{ event.description | markdownify }}</p>
+          <div class="row justify-content-md-center">
+            <div class="col">
+              {% if event.external %}
+              <a href="{{event.external}}" class="card-link" target="_blank"
+                ><button type="button" class="btn btn-warning text-white">
+                  Learn more
+                </button></a
+              >
+              {% else %}
+              <a href="{{event.url}}" class="card-link"
+                ><button type="button" class="btn btn-warning text-white">
+                  Learn more
+                </button></a
+              >
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- 
+**First Night.** September 11th. Book Night: With Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023). In conversation with Laurent Mayali (Robbins Collection, Berkeley) and Tom Johnson (York, UK). Introduction by Jesús R. Velasco.
+• **Second Night.** September 20th: Irina Dumitrescu (University of Bonn). In conversation with Casandra Garza Reséndez.
+• **Third Night.** September 27th: Jeanne Rosine Abomo (Washington University, Saint Louis). In conversation with Iliana Vásquez González.
+• **Fourth Night.** October 2nd: Book night: With Sarah Quesada’s new book _The African Heritage of Latinx and Caribbean Literature_ (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Daniela Jara.
+• **Fifth Night.** October 9th: Selby Wynn Schwartz (Stanford University). In conversation with Inês Forjaz de Lacerda and Sofía Fernández González.
+• **Sixth Night.** October 16th: Book Night: With Yuri Herrera’s new book _La estación del pantano_ (Periférica, 2022). In conversation with Alan Mendoza Sosa and Orit Gugenheim Katz.
+• **Seventh Night.** October 23rd. Book Night: With Miguel Valerio’s new, award-winning book _Sovereign Joy_ (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Lisa Voigt.
+• **Eighth Night.** November 8th: Julie Stone Peters (Columbia University). In conversation with Yijing Zhang and Martha Engvall.
+• **Ninth Night.** November 14th: Marta Sanz (Author, Madrid). In conversation with Brais Lamela Gómez and Katherina Frangi.
+• **Tenth Night.** November 15th: Marta Sanz (Author, Madrid). In conversation with Aurélie Vialette (Stony Brook University).
+• **Eleventh and Twelfth Nights.** November 17-18. On Witchcraft. With: Lexie Cook (University of Durham, UK), Soazick Kerneis (University of Paris-Nanterre), Julie Stone Peters (Columbia University), Paola Uparela (University of Florida). Ana Fernandez Blazquez. Esteban Crespo
+• **Thirteenth Night.** November 29th: Rachel Schine (University of Maryland). In conversation with Ana Fernández Blázquez. -->
+
+<div class="row justify-content-center p-4">
+  <div class="col-8">
+    <h2>In Partnership with</h2>
+    <ul>
+      <li>
+        <a target="_blank" href="https://earlymodern.yale.edu/"
+          >Program in Early Modern Studies</a
+        >
+      </li>
+      <li>
+        <a target="_blank" href="https://medieval.yale.edu/">
+          Yale Program in Medieval Studies
+        </a>
+      </li>
+      <li>
+        <a target="_blank" href="https://complit.yale.edu/"
+          >Yale Department of Comparative Literature</a
+        >
+      </li>
+      <li>
+        <a target="_blank" href="https://french.yale.edu/"
+          >Yale Department of French</a
+        >
+      </li>
+      <li>
+        <a target="_blank" href="https://iberian-connections.yale.edu/"
+          >Iberian Connections</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
