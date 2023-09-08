@@ -27,10 +27,10 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities
 [Katherina FRANGI](https://span-port.yale.edu/people/katherina-frangi)  
 You, soon we hope!
 
-## A brief history
-
-The Creative Forum was founded in 2022 after a successful vote by the [Department of Spanish & Portuguese](https://span-port.yale.edu). The then chair of the department, Jesús R. Velasco, asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. Planning did not stop The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward.
-
 ## What we do
 
 The Creative Forum pursues its mission through programs, events and projects. We are in the early stages of running a number of regular programs to support our mission, and welcome kin initiatives to join our umbrella. Our encounters are our bread and butter. We organize and host a variety of workshops, talks, and performances aligned with our mission. Last, but not least, we help incubate creative research projects and ideas through our project-based ateliers.
+
+## A brief history
+
+The Creative Forum was founded in 2022 after a successful vote by the [Department of Spanish & Portuguese](https://span-port.yale.edu). The then chair of the department, Jesús R. Velasco, asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. Planning did not stop The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward.
