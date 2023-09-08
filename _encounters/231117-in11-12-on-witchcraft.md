@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "The 11th and 12th Iberian Night"
+title: "The 11th and 12th Night"
 subtitle: "On Witchcraft"
 series: "Iberian Nights"
 description: "On Witchcraft"

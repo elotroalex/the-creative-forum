@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "The 4th Iberian Night"
+title: "The 4th Night"
 series: "Iberian Nights"
 description: "With Sarah Quesada’s new book *The African Heritage of Latinx and Caribbean Literature*"
 date: 2023-10-02

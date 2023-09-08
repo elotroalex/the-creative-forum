@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "The 6th Iberian Night"
+title: "The 6th Night"
 series: "Iberian Nights"
 description: "With Yuri Herrera’s new book *La estación del pantano*"
 date: 2023-10-16

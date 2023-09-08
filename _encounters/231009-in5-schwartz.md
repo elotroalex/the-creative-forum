@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "The 5th Iberian Night"
+title: "The 5th Night"
 series: "Iberian Nights"
 description: "Selby Wynn Schwartz in conversation with Inês Forjaz de Lacerda and Sofía Fernández González"
 date: 2023-10-09
