@@ -21,7 +21,7 @@ Join us for our first night, a book night, with [Ada Kuskowski](https://live-sas
 
 #### On Ada M Kuskowski’s _Vernacular Law_
 
-We have asked our interlocutors to write some notes and glosses for us to help get the conversation started before our first night. These are linked below to our partner seminar, Iberian Connections.
+We asked our interlocutors to prepare some notes and glosses for us, to help jumpstart our conversation. These are linked below to our partner seminar, Iberian Connections.
 
 - Lindsay Stern. "[Living Law](https://iberian-connections.yale.edu/articles/living-law-stern/)"
 - Laurent Mayali. "[Coutume and the Legal](https://iberian-connections.yale.edu/articles/coutume-and-the-legal/)"
