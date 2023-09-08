@@ -18,10 +18,17 @@ Augustus R. Street Professor of Spanish & Portuguese and Comparative Literature
 [Alex GIL](https://span-port.yale.edu/people/alex-gil)  
 Senior Lecturer II & Associate Research Faculty of Digital Humanities
 
-#### Conveners, contributors, and creators:
+#### Faculty Board
+
+[Santiago ACOSTA](https://span-port.yale.edu/people/santiago-acosta)  
+Assistant Professor of Latin American Cultures  
 
 [Mayte LÓPEZ](https://span-port.yale.edu/people/mayte-lopez)  
-[Santiago ACOSTA](https://span-port.yale.edu/people/santiago-acosta)  
+Lector of Spanish
+
+
+#### Conveners, contributors, and creators:
+
 [Alan MENDOZA SOSA](https://span-port.yale.edu/people/alan-mendoza-sosa)  
 [Gaëlle LE CALVEZ HOUSE](https://span-port.yale.edu/people/gaelle-le-calvez-house)  
 [Katherina FRANGI](https://span-port.yale.edu/people/katherina-frangi)  
