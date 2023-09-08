@@ -17,7 +17,7 @@ with:
   - Tom Johnson
 ---
 
-Book Night with Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023). In conversation with Laurent Mayali (UC Berkeley Law), Tom Johnson (York, Uk), and Lindsay Stern (Yale and Harvard).
+Book night with Ada Kuskowski’s new book _Vernacular Law_ (Cambridge University Press, 2023), in conversation with Laurent Mayali (UC Berkeley Law), Tom Johnson (York, Uk), and Lindsay Stern (Yale and Harvard).
 
 ## Iberian Nights
 
