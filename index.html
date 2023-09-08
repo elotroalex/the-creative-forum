@@ -95,11 +95,19 @@ banner: homepage.png
               <p class="card-text">{{event.description | markdownify}}</p>
               <div class="row justify-content-md-center">
                 <div class="col">
-                  <a href="{{event.url}}" class="card-link"
-                    ><button type="button" class="btn btn-outline-warning">
+                  {% if event.external %}
+                  <a href="{{event.external}}" class="card-link" target="_blank"
+                    ><button type="button" class="btn btn-warning text-white">
                       Learn more
                     </button></a
                   >
+                  {% else %}
+                  <a href="{{event.url}}" class="card-link"
+                    ><button type="button" class="btn btn-warning text-white">
+                      Learn more
+                    </button></a
+                  >
+                  {% endif %}
                 </div>
               </div>
             </div>
@@ -113,15 +121,14 @@ banner: homepage.png
 <div class="section bg-light p-4">
   <div class="container">
     <div class="row">
-      <div class="col-6">
+      <div class="col-8">
         <h2 class="text-primary">Get involved</h2>
         <p class="">
-          The Creative Forum is housed at the Yale Department of Spanish &
-          Portuguese. We welcome all faculty, graduate researchers,
-          undergraduate students and staff at Yale interested in the intesection
-          of the creative arts and scholarship. Our doors are open to all
-          collaborative, experimental, mobilized, public and digital humanities
-          praxis. If you are interested in getting involved, please contact us.
+          We welcome all faculty, graduate researchers, undergraduate students
+          and staff at Yale interested in the intersection of the creative arts
+          and scholarship. Our doors are open to all collaborative,
+          experimental, mobilized, public and digital humanities praxis. If you
+          are interested in getting involved, please contact us.
         </p>
         <p>
           <a href="mailto:alex.gil@yale.edu"
@@ -131,7 +138,7 @@ banner: homepage.png
           >
         </p>
       </div>
-      <div class="col-6">
+      <div class="col-4">
         <!-- <h3 class="text-primary">Got an idea?</h3>
         <p class="">
           We are always looking for new ideas and collaborators. Let us know
