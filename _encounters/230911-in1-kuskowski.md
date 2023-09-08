@@ -2,7 +2,7 @@
 layout: event
 title: "The 1st Night"
 series: "Iberian Nights"
-description: "Book Night with Ada Kuskowski’s new book _Vernacular Law_"
+description: "A night with Ada Kuskowski’s new book _Vernacular Law_"
 date: 2023-09-11
 start-time: 5:00PM
 end-time: 7:00PM
@@ -15,9 +15,11 @@ with:
   - Laurent Mayali
   - Lindsay Stern
   - Tom Johnson
+zoom: https://yale.zoom.us/meeting/register/tJAsfuqprDsjHtBYpLzHl0OVLXQfvygTHuL7
 ---
 
-Join us for our first night, a book night, with [Ada Kuskowski](https://live-sas-www-history.pantheon.sas.upenn.edu/people/faculty/ada-maria-kuskowski)’s new book _Vernacular Law_ (Cambridge University Press, 2023), in conversation with Laurent Mayali (UC Berkeley Law), Tom Johnson (York, Uk), and Lindsay Stern (Yale and Harvard).
+Iberian Nights begins on September 11 with a conversation on and with [Ada M. Kuskowski](https://live-sas-www-history.pantheon.sas.upenn.edu/people/faculty/ada-maria-kuskowski)'s groundbreaking [*Vernacular Law: Writing and the Reinvention of Customary Law in Medieval* France](https://www-cambridge-org.yale.idm.oclc.org/core/books/vernacular-law/363C98D9E7AFB2D8EF9BD566481466FA) (Cambridge UP, 2022). [Lindsay Stern](https://iberian-connections.yale.edu/author/lindsay-stern/), academic, novelist, and poet, will be at the helm of this session, for which she has also proposed a creative approach to Kuskowski's book in her [_Living Law_](https://iberian-connections.yale.edu/articles/living-law-stern/). Distinguished Professor of Law at Berkeley [Laurent Mayali](https://iberian-connections.yale.edu/author/laurent-mayali/) will join in the conversation [from his expertise on customary and comparative law](https://iberian-connections.yale.edu/articles/coutume-and-the-legal/), addressing some important points about this groundbreaking book. [Tom Johnson](https://iberian-connections.yale.edu/author/tom-johnson/), historian from York University, wants to say [A little thing on justice](https://iberian-connections.yale.edu/articles/a-little-thing-on-justice-johnson/) reading both the book and its internal poetry. Join us for this wonderful event on Monday, September 11th at 5pm, 320 York street, HQ 276. Only the
+first of 1001 Iberian Nights.
 
 #### On Ada M Kuskowski’s _Vernacular Law_
 

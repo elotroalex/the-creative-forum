@@ -77,7 +77,16 @@ layout: default
           Add to Calendar
         </button></a
       >
-      {% if page.poster %}
+
+      {% if page.zoom %}
+
+      <a href="{{page.zoom}}" class="ps-2" target="_blank"
+        ><button type="button" class="btn btn-warning text-white">
+          Zoom Link
+        </button></a
+      >
+
+      {% endif %} {% if page.poster %}
 
       <a href="/images/encounters/{{page.poster}}" class="ps-2" target="_blank"
         ><button type="button" class="btn btn-warning text-white">
