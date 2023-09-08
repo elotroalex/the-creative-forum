@@ -1,8 +1,9 @@
 desc 'Publishing the website via rsync'
 
 require 'colorize'
+require 'html-proofer'
 
-task :test do
+task :mock do
   puts 'First, let\'s build your site...'.blue
   sh "jekyll build"
   puts "\n"
@@ -15,4 +16,20 @@ task :test do
   puts "\n"
   puts 'Bam! Your website is now published in the test server!'.green
   puts "\n"
+end
+
+task :test do
+  puts 'Let\'s run some tests...'.green
+  sh "bundle exec jekyll build"
+  options = {
+    :allow_hash_href => true,
+    :assume_extension => true,
+    # :check_favicon => true,
+    :check_html => true,
+    :ignore_status_codes => [429, 403],
+    # :disable_external => true,
+    :enforce_https => false,
+    :only_4xx => true
+    }
+  HTMLProofer.check_directory("./_site", options).run
 end

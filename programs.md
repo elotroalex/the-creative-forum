@@ -10,7 +10,7 @@ We designed a few starter programs to help us get going. We want more, and are o
 
 ### Literary Bites: A Creative Forum Luncheon Series
 
-Feast your mind and spirit on a delectable fusion of literature and intellectual nourishment with “Literary Bites,” a Literary Luncheon Series. We will bring together talented writers, scholars, and students for a unique fusion of literary discourse and intellectual community. At these monthly catered lunches, we aim to serve up thought-provoking conversations about past and ongoing projects, showcase Yale’s established and up-and-coming literary talents, and strive to transform our department into a thriving hub for literary creation. Come join us for a literary spread that will leave you savoring every word. To catch upcoming events, please [keep an eye out on our encounters page](/encounters).
+Feast your mind and spirit on a delectable fusion of literature and intellectual nourishment with “Literary Bites,” a Literary Luncheon Series. We will bring together talented writers, scholars, and students for a unique fusion of literary discourse and intellectual community. At these monthly catered lunches, we aim to serve up thought-provoking conversations about past and ongoing projects, showcase Yale’s established and up-and-coming literary talents, and strive to transform our department into a thriving hub for literary creation. Come join us for a literary spread that will leave you savoring every word. To catch upcoming events, please [keep an eye out on our encounters page](/encounters.html).
 
 ### The Collaborative Research Incubator
 
