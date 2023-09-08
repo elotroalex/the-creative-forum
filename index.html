@@ -82,6 +82,11 @@ banner: homepage.png
               style="object-fit: cover"
             />
             <div class="card-body">
+              {% if event.series %}
+              <span class="fw-light series-thumb text-muted"
+                >{{event.series}}</span
+              >
+              {% endif %}
               <h5 class="card-title">{{event.title}}</h5>
               <h6 class="card-subtitle mb-2 text-muted">
                 {{event.date | date: "%B %-d, %Y"}}
