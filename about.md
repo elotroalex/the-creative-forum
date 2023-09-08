@@ -23,8 +23,8 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities
 [Mayte LÓPEZ](https://span-port.yale.edu/people/mayte-lopez)  
 [Santiago ACOSTA](https://span-port.yale.edu/people/santiago-acosta)  
 [Alan MENDOZA SOSA](https://span-port.yale.edu/people/alan-mendoza-sosa)  
-[Gaëlle LE CALVEZ HOUSE](https://span-port.yale.edu/people/gaelle-le-calvez-house)
-[Katherina FRANGI](https://span-port.yale.edu/people/katherina-frangi)
+[Gaëlle LE CALVEZ HOUSE](https://span-port.yale.edu/people/gaelle-le-calvez-house)  
+[Katherina FRANGI](https://span-port.yale.edu/people/katherina-frangi)  
 You, soon we hope!
 
 ## A brief history
