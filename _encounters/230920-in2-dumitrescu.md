@@ -8,6 +8,7 @@ start-time: 5:00PM
 end-time: 7:00PM
 calendar: 20230920T170000/20230920T190000
 location: Humanities Quadrangle 276
+card: arabesque.png
 banner: dumitrescu.jpg
 caption: "Banner image: Poetry embroidered on medical gauze, white on white, by a physician political prisoner from [The Sighet Memorial](https://turmemorialsighet.ro/?lang=en)."
 featuring:

@@ -8,6 +8,7 @@ start-time: 5:00PM
 end-time: 7:00PM
 calendar: 20231002T170000/20231002T190000
 location: Humanities Quadrangle 276
+card: arabesque.png
 banner: garcia-vazquez.jpg
 featuring:
   - Sarah Quesada

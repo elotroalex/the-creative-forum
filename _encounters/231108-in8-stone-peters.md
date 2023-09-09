@@ -8,6 +8,7 @@ start-time: 5:00PM
 end-time: 7:00PM
 calendar: 20231108T170000/20231108T190000
 location: Humanities Quadrangle 276
+card: arabesque.png
 banner: stone-peters.jpg
 featuring:
   - Julie Stone Peters
