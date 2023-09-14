@@ -79,19 +79,21 @@ banner: encounters.png
   </div>
 </div>
 
-<!-- <div class="bg-light">
+<div class="bg-light pt-5 pb-5">
   <div class="container">
     <div class="row justify-content-center p-4">
       <div class="col-8">
-        <h2 class="">Past encounters...</h2> -->
-<!-- prettier-ignore -->
-<!-- <ul class="list-unstyled">
-            {% assign encounters = site.encounters | where_exp: "item", "item.date < site.time" | sort: "date" %}
+        <h2 class="">Past encounters...</h2>
+        <!-- prettier-ignore -->
+
+        {% assign encounters = site.encounters | where_exp: "item", "item.date < site.time" | sort: "date" | reverse %}
             {% for event in encounters %}
-            <li class="past-event lead"><a href="{{event.url}}">{{event.title}}</a></li>
-            {% endfor %}
-          </ul>
+        <span class="past-event lead"
+          ><a href="{{event.url}}">{{event.title}}</a> {% unless forloop.last
+          %}|{% endunless %}
+        </span>
+        {% endfor %}
       </div>
     </div>
   </div>
-</div> -->
+</div>
