@@ -3,10 +3,10 @@ layout: event
 title: "The 8th Night"
 series: "Iberian Nights"
 description: "Julie Stone Peters in conversation with Yijing Zhang and Martha Engvall"
-date: 2023-11-08
+date: 2023-11-06
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20231108T170000/20231108T190000
+calendar: 20231106T170000/20231106T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: stone-peters.jpg
