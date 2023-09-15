@@ -22,6 +22,10 @@ with:
 
 Join us for an evening with Irina Dumitrescu (University of Bonn) in conversation with Casandra Garza Reséndez and Camila Roxana Marcone on "Cultivating a Relationship with Yourself as a Writer."
 
+<span class="lead h4 border border-warning p-1 text-warning">☞ Irina asks that you bring pen and paper!</span>
+
+<br>
+
 **Irina Dumitrescu** is a writer and the professor for medieval English
 literature at the University of Bonn. She is the author of _The
 Experience of Education in Anglo-Saxon Literature_ (Cambridge, 2018) and
