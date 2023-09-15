@@ -11,6 +11,8 @@ location: Humanities Quadrangle 276
 card: arabesque.png
 banner: dumitrescu.jpg
 caption: "Banner image: Poetry embroidered on medical gauze, white on white, by a physician political prisoner from [The Sighet Memorial](https://turmemorialsighet.ro/?lang=en)."
+poster: dumitrescu.pdf
+zoom: https://yale.zoom.us/meeting/register/tJArdeGurD8pH9aQTocnfBQ9v77RJ3cPhnFh
 featuring:
   - Irina Dumitrescu
 with:
@@ -18,7 +20,7 @@ with:
   - Camila Roxana Marcone
 ---
 
-Join us for an evening with Irina Dumitrescu (University of Bonn) in conversation with Casandra Garza Reséndez and Camila Roxana Marcone.
+Join us for an evening with Irina Dumitrescu (University of Bonn) in conversation with Casandra Garza Reséndez and Camila Roxana Marcone on "Cultivating a Relationship with Yourself as a Writer."
 
 **Irina Dumitrescu** is a writer and the professor for medieval English
 literature at the University of Bonn. She is the author of _The

@@ -82,13 +82,16 @@ layout: default
 
       <a href="{{page.zoom}}" class="ps-2" target="_blank"
         ><button type="button" class="btn btn-warning text-white">
-          Zoom Link
+          Zoom Registration
         </button></a
       >
 
       {% endif %} {% if page.poster %}
 
-      <a href="/images/encounters/{{page.poster}}" class="ps-2" target="_blank"
+      <a
+        href="{{site.url}}/posters/{{page.poster}}"
+        class="ps-2"
+        target="_blank"
         ><button type="button" class="btn btn-warning text-white">
           Download Poster
         </button></a
