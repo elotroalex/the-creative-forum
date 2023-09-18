@@ -24,7 +24,18 @@ banner: encounters.png
         <div class="card mb-2">
           <img
             class="card-img-top"
+            {%
+            if
+            event.thumbnail
+            %}
+            src="/images/encounters/{{event.thumbnail}}"
+            {%
+            else
+            %}
             src="/images/encounters/{{event.banner}}"
+            {%
+            endif
+            %}
             alt="Card image cap"
             height="120"
             style="object-fit: cover"
