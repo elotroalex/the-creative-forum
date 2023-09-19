@@ -22,6 +22,12 @@ with:
 
 Join us for an evening with Irina Dumitrescu (University of Bonn) in conversation with Casandra Garza Reséndez and Camila Roxana Marcone on "Cultivating a Relationship with Yourself as a Writer."
 
+#### Preparing for our encounter
+
+We asked our interlocutors to prepare some notes and glosses for us, to help jumpstart our conversation. These are linked below to our partner seminar, Iberian Connections.
+
+- Casandra Garza Reséndez. "[Navigating the Perils of Writing](https://iberian-connections.yale.edu/articles/navigating-the-perils-of-writing/)."
+
 <span class="lead h4 border border-warning p-1 text-warning">☞ Irina asks that you bring pen and paper!</span>
 
 <br>
