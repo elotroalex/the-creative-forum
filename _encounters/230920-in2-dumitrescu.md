@@ -27,6 +27,7 @@ Join us for an evening with Irina Dumitrescu (University of Bonn) in conversatio
 We asked our interlocutors to prepare some notes and glosses for us, to help jumpstart our conversation. These are linked below to our partner seminar, Iberian Connections.
 
 - Casandra Garza Reséndez. "[Navigating the Perils of Writing](https://iberian-connections.yale.edu/articles/navigating-the-perils-of-writing/)."
+- Camila Marcone. "[My Interior Monologue about Writing as Bernard of Clairvaux’s Steps of Humility](https://iberian-connections.yale.edu/notes/my-interior-monologue-about-writing/)."
 
 <div class="mb-4 mt-4"><span class="lead h4 border border-warning p-1 text-warning">☞ Irina asks that you bring pen and paper!</span></div>
 
