@@ -67,7 +67,7 @@ of five speakers:
 
 We invite you to join us and be an active participant in our conversation. Please see the call for proposals below.
 
-### Proposals:
+### Call For Proposals:
 
 Please send your proposals with the attached form, which is
 self-explanatory. You can suggest:
