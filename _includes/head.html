@@ -5,10 +5,20 @@
   <!-- SEO -->
   <title>{{ page.title }}</title>
 
+  <!-- CACHE-CONTROL -->
+
+  <meta
+    http-equiv="Cache-Control"
+    content="no-cache, no-store, must-revalidate"
+  />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+
   <!-- OpenGraph -->
 
   {% if page.layout == "home" %}
   <meta property="og:title" content="{{site.title}}" />
+
   {% else %}
   <meta property="og:title" content="{{page.title}} | {{site.title}}" />
   {% endif %}
