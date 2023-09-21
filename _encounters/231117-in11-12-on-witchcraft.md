@@ -50,11 +50,11 @@ inquisitorial colonialism and to its dissidence. The Craft is so
 powerful it does not even need to exist to be a transforming element of
 society and politics.
 
-The purpose of this colloquium is to share investigation across many
+The purpose of this colloquium---which marks the 11th and 12th nights of [our Iberian Nights series](https://creativeforum.yale.edu/special/iberian-nights.html)---is to share investigation across many
 fields and academic interests about the practices and cultures of
 witchcraft.
 
-The colloquium on _The Craft_ will consist of a group of people working
+The colloquium on _The Craft_ will consist of a collective of scholars working
 together for two days from different perspectives on the practices and
 theories of Witchcraft. The material will be organized around the work
 of five speakers:
