@@ -11,7 +11,7 @@ end-date: 2023-11-18
 end-date-time: 5:00PM to 7:00PM
 calendar: 20231117T170000/20231117T190000
 location: Humanities Quadrangle 276
-card: the-craft.png
+card: arabesque.png
 banner: the-craft.png
 featuring:
   - Lexie Cook
