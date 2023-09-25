@@ -15,14 +15,13 @@ card: the-craft.png
 banner: the-craft.png
 featuring:
   - Lexie Cook
-  - Kaiama Glover
   - Soazick Kerneis
   - Julie Stone Peters
   - Paola Uparela
 with:
   - Ana Fernandez Blazquez
   - Esteban Crespo
-  - Marta Sanz
+  - Nathalie Miraval
 ---
 
 Celestina used to work within a network of people with varied skills.
@@ -57,13 +56,12 @@ witchcraft.
 The colloquium on _The Craft_ will consist of a collective of scholars working
 together for two days from different perspectives on the practices and
 theories of Witchcraft. The material will be organized around the work
-of five speakers:
+of four speakers:
 
 - Lexie Cook (University of Durham, UK)
 - Soazick Kerneis (Université de Paris, Nanterre)
 - Julie Stone Peters (Columbia University)
 - Paola Uparela (University of Florida)
-- Kaiama Glover (Yale University)
 
 We invite you to join us and be an active participant in our conversation. Please see the call for proposals below.
 
