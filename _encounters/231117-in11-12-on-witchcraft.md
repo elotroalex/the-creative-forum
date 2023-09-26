@@ -5,11 +5,11 @@ subtitle: "A Colloquium On Witchcraft"
 series: "Iberian Nights"
 description: "A Colloquium On Witchcraft"
 date: 2023-11-17
-start-time: 5:00PM
+start-time: 12:00PM
 end-time: 7:00PM
 end-date: 2023-11-18
-end-date-time: 5:00PM to 7:00PM
-calendar: 20231117T170000/20231117T190000
+end-date-time: 12:00PM to 7:00PM
+calendar: 20231117T120000/20231117T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: the-craft.png
