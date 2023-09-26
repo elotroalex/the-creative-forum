@@ -22,7 +22,6 @@ featuring:
 with:
   - Ana Fernandez Blazquez
   - Esteban Crespo
-  - Marta Sanz
 ---
 
 Celestina used to work within a network of people with varied skills.

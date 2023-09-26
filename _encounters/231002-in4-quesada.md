@@ -4,8 +4,8 @@ title: "The 4th Night"
 series: "Iberian Nights"
 description: "With Sarah Quesada’s new book *The African Heritage of Latinx and Caribbean Literature*"
 date: 2023-10-02
-start-time: 5:00PM
-end-time: 7:00PM
+start-time: 5:30PM
+end-time: 7:30PM
 calendar: 20231002T170000/20231002T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
@@ -13,11 +13,11 @@ banner: garcia-vazquez.jpg
 featuring:
   - Sarah Quesada
 with:
-  - Jesús R. Velasco
+  - Santiago Acosta
   - Daniela Jara
 ---
 
-With Sarah Quesada’s new book The African Heritage of Latinx and Caribbean Literature (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Daniela Jara.
+Join us for an evening discussing Sarah Quesada’s new book _The African Heritage of Latinx and Caribbean Literature_ (Cambridge University Press, 2022) in conversation with Santiago Acosta and Daniela Jara.
 
 ---
 
