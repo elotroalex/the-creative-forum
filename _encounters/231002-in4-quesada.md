@@ -10,6 +10,7 @@ calendar: 20231002T170000/20231002T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: garcia-vazquez.jpg
+zoom: https://yale.zoom.us/meeting/register/tJMkfuGopzguE9OCv6hBpLQrIjsXkIKF6jFY
 featuring:
   - Sarah Quesada
 with:
