@@ -10,6 +10,7 @@ calendar: 20231009T170000/20231009T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: schwartz.jpg
+zoom: https://yale.zoom.us/meeting/register/tJIpduCvrDstEt0plusKrzk1u2SfiTr_9HBH
 featuring:
   - Selby Wynn Schwartz
 with:
@@ -17,7 +18,7 @@ with:
   - Sofía Fernández González
 ---
 
-A night with Selby Wynn Schwartz (Stanford University). In conversation with Inês Forjaz de Lacerda and Sofía Fernández González.
+A night with Selby Wynn Schwartz (Stanford University), author of _After Sappho_ (2022), in conversation with Inês Forjaz de Lacerda and Sofía Fernández González.
 
 ---
 
