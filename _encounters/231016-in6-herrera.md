@@ -17,7 +17,7 @@ with:
   - Orit Gugenheim Katz
 ---
 
-Book Night: With Yuri Herrera’s new book _La estación del pantano_ (Periférica, 2022). In conversation with Alan Mendoza Sosa and Orit Gugenheim Katz.
+Book Night with Yuri Herrera’s new book _La estación del pantano_ (Periférica, 2022), in conversation with Alan Mendoza Sosa and Orit Gugenheim Katz.
 
 ---
 
