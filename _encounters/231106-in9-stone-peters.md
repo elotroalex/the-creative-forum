@@ -1,22 +1,23 @@
 ---
 layout: event
-title: "The 13th Night"
+title: "The 9th Night"
 series: "Iberian Nights"
-description: "Rachel Schine in conversation with Ana Fernández Blázquez."
-date: 2023-11-29
+description: "Julie Stone Peters in conversation with Yijing Zhang and Martha Engvall"
+date: 2023-11-06
 start-time: 5:00PM
 end-time: 7:00PM
-calendar: 20231129T170000/20231129T190000
+calendar: 20231106T170000/20231106T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
-banner: schine.jpg
+banner: stone-peters.jpg
 featuring:
-  - Rachel Schine
+  - Julie Stone Peters
 with:
-  - Ana Fernández Blázquez
+  - Yijing Zhang
+  - Martha Engvall
 ---
 
-Rachel Schine (University of Maryland). In conversation with Ana Fernández Blázquez.
+Julie Stone Peters (Columbia University). In conversation with Yijing Zhang and Martha Engvall.
 
 ---
 

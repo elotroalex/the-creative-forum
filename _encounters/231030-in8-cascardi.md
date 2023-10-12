@@ -2,22 +2,21 @@
 layout: event
 title: "The 8th Night"
 series: "Iberian Nights"
-description: "Julie Stone Peters in conversation with Yijing Zhang and Martha Engvall"
-date: 2023-11-06
-start-time: 5:00PM
-end-time: 7:00PM
-calendar: 20231106T170000/20231106T190000
+description: "A book night with Anthony Cascardi on his new book *Francisco de Goya and The Art of Critique*"
+date: 2023-10-30
+start-time: 5:30PM
+end-time: 7:30PM
+calendar: 20231106T173000/20231106T193000
 location: Humanities Quadrangle 276
-card: arabesque.png
-banner: stone-peters.jpg
+card: cascardi.png
+banner: cascardi.png
 featuring:
-  - Julie Stone Peters
+  - Anthony Cascardi
 with:
-  - Yijing Zhang
-  - Martha Engvall
+  - Jesús R. Velasco
 ---
 
-Julie Stone Peters (Columbia University). In conversation with Yijing Zhang and Martha Engvall.
+A book night with Anthony Cascardi, Berkeley, in conversation with Jesús R. Velasco on his new book _Francisco de Goya and The Art of Critique_ (NY: Zone Books, 2022)
 
 ---
 

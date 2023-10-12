@@ -15,12 +15,14 @@ card: arabesque.png
 banner: the-craft.png
 featuring:
   - Lexie Cook
+  - Jessica Marie Johnson
   - Soazick Kerneis
   - Julie Stone Peters
   - Paola Uparela
+
 with:
-  - Ana Fernandez Blazquez
   - Esteban Crespo
+  - Ana Fernandez Blazquez
   - Nathalie Miraval
 ---
 
