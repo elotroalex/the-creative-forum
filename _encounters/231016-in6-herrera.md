@@ -10,6 +10,7 @@ calendar: 20231016T170000/20231016T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: yuri-herrera.jpg
+zoom: https://yale.zoom.us/meeting/register/tJMtd-CqrzIjE9yZBZhp0T7TptrcX7DilSHJ
 featuring:
   - Yuri Herrera
 with:
