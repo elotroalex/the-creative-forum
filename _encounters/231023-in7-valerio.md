@@ -10,6 +10,7 @@ calendar: 20231023T170000/20231023T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: valerio.jpg
+zoom: https://yale.zoom.us/meeting/register/tJAkdOCqqDgsHdVlD7yLklNgJeBKqHxyHTt9
 featuring:
   - Miguel Valerio
 with:
