@@ -14,11 +14,43 @@ zoom: https://yale.zoom.us/meeting/register/tJAkdOCqqDgsHdVlD7yLklNgJeBKqHxyHTt9
 featuring:
   - Miguel Valerio
 with:
-  - Jesús R. Velasco
+  - Lindsay Stern
   - Lisa Voigt
 ---
 
-Book Night: With Miguel Valerio’s new, award-winning book _Sovereign Joy_ (Cambridge University Press, 2022). In conversation with Jesús R. Velasco and Lisa Voigt.
+Book Night with Miguel Valerio’s new, award-winning book _Sovereign Joy_ (Cambridge University Press, 2022) in conversation with Lindsay Stern and Lisa Voigt.
+
+#### On Miguel Valerio's _Sovereign Joy_
+
+We asked our interlocutors to prepare some notes and glosses for us, to help jumpstart our conversation. These are linked below to our partner seminar, Iberian Connections.
+
+- Miguel Valerio. "[Alternative creative methodologies](https://iberian-connections.yale.edu/articles/alternative-creative-methodologies/)"
+- Lindsay Stern. "[The Queen’s Ten Bodies](https://iberian-connections.yale.edu/articles/the-queens-ten-bodies/)"
+
+#### Miguel Valerio
+
+Miguel A. Valerio is assistant professor of Spanish at Washington
+University in St. Louis. Prof. Valerio is a scholar of the African
+diaspora in the Iberian world. His research has focused on black
+Catholic brotherhoods or confraternities and Afro-creole festive
+practices in colonial Latin America, especially Mexico and Brazil. He is
+the author of [Sovereign Joy: Afro-Mexican Kings and Queens,
+1539-1640](https://www.cambridge.org/us/academic/subjects/history/latin-american-history/sovereign-joy-afro-mexican-kings-and-queens-1539-1640?format=HB) (Cambridge
+University Press, 2022) and a co-editor of [Indigenous and Black
+Confraternities in Colonial Latin America: Negotiating Status through
+Religious
+Practices](https://www.aup.nl/en/book/9789463721547/indigenous-and-black-confraternities-in-colonial-latin-america) (Amsterdam
+University Press, 2022). He is currently working on his second book
+project, Architects of Their World: The Artistic and Ritualistic Spaces
+of Afro-Brazilian Brotherhoods (under contract with Cambridge University
+Press). His research has appeared in various academic journals,
+including [Slavery and
+Abolition](https://doi.org/10.1080/0144039X.2020.1755152), [Colonial
+Latin American
+Review](https://doi.org/10.1080/10609164.2021.1912483), [The
+Americas](https://doi.org/10.1017/tam.2021.45), the [Journal of Festive
+Studies](https://doi.org/10.33823/jfs.2021.3.1.79), and [Latin American
+Research Review](https://doi.org/10.1017/lar.2023.13).
 
 ---
 
