@@ -52,6 +52,18 @@ Americas](https://doi.org/10.1017/tam.2021.45), the [Journal of Festive
 Studies](https://doi.org/10.33823/jfs.2021.3.1.79), and [Latin American
 Research Review](https://doi.org/10.1017/lar.2023.13).
 
+#### Lindsay Stern
+
+Lindsay O'Connor Stern is a \'23-24 Postdoctoral Fellow at the Mahindra
+Humanities Center at Harvard University. She completed a PhD in
+Comparative Literature at Yale in 2023. Her writing has appeared or is
+forthcoming in *New Literary History, Law & Critique, *and *Smithsonian
+Magazine. *She is the author of a novella, *[Town of
+Shadows](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FTown-Shadows-Fiction-Lindsay-Stern%2Fdp%2F0578112590&data=05%7C01%7Calex.gil%40yale.edu%7Ca92f12d6a04b4f8a4b9708dbd339e9c3%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C638336017915387468%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3mkyIZpbkvQ9IW9yWbuqXX0S19lflnoe0M%2FUCW0KlzY%3D&reserved=0) *(Scrambler
+Books 2012), about a rug doctor living in a dictatorship, and a novel,
+the *The Study of Animal Languages *(Viking, 2019), which received the
+Iowa Writers' Workshop\'s Taylor-Chehak Prize in Fiction.
+
 ---
 
 ### Iberian Nights
