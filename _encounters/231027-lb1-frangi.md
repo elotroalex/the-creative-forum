@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "El Control de la frase"
+title: "El control de la frase"
 series: "Literary Bites"
 description: "An exploration of the boundaries of literature and the art of phrase craft"
 date: 2023-10-27
