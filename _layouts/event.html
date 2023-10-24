@@ -34,8 +34,9 @@ layout: default
         data-mdb-animation="fade-in-left"
         data-mdb-animation-start="onLoad"
       >
-        {{page.title}}
+        {{page.title | markdownify | remove: '<p>' |  remove: '</p>'  }}
       </h1>
+
       {% if page.subtitle %}
       <p class="h1 display-5 text-warning">{{page.subtitle}}</p>
       <br />
