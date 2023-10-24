@@ -4,9 +4,9 @@ title: "*pó e sía* lúdica & material"
 series: "Literary Bites"
 description: "Found objects, flora, sheets, noise, and the human voice, prepare for a kaleidoscope of words and text."
 date: 2023-11-17
-start-time: 12:00PM
-end-time: 1:30PM
-calendar: 20231117T120000/20231117T133000
+start-time: 12:30PM
+end-time: 2:00PM
+calendar: 20231117T123000/20231117T140000
 location: Humanities Quadrangle 134
 card: litbite2.png
 banner: litbite2.png
