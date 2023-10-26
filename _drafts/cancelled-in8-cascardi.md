@@ -3,7 +3,7 @@ layout: event
 title: "The 8th Night"
 series: "Iberian Nights"
 description: "A book night with Anthony Cascardi on his new book *Francisco de Goya and The Art of Critique*"
-date: 2023-10-30
+date:
 start-time: 5:30PM
 end-time: 7:30PM
 calendar: 20231106T173000/20231106T193000
