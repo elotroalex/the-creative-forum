@@ -4,8 +4,8 @@ title: "The 5th Night"
 series: "Iberian Nights"
 description: "Selby Wynn Schwartz in conversation with Inês Forjaz de Lacerda and Sofía Fernández González"
 date: 2023-10-09
-start-time: 5:00PM
-end-time: 7:00PM
+start-time: 5:30PM
+end-time: 7:30PM
 calendar: 20231009T170000/20231009T190000
 location: Humanities Quadrangle 276
 card: arabesque.png

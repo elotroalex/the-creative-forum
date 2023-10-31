@@ -4,8 +4,8 @@ title: "The 6th Night"
 series: "Iberian Nights"
 description: "With Yuri Herrera’s new book *La estación del pantano*"
 date: 2023-10-16
-start-time: 5:00PM
-end-time: 7:00PM
+start-time: 5:30PM
+end-time: 7:30PM
 calendar: 20231016T170000/20231016T190000
 location: Humanities Quadrangle 276
 card: arabesque.png

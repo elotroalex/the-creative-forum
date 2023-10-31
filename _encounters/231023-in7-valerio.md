@@ -4,8 +4,8 @@ title: "The 7th Night"
 series: "Iberian Nights"
 description: "With Miguel Valerio’s new, award-winning book *Sovereign Joy*"
 date: 2023-10-23
-start-time: 5:00PM
-end-time: 7:00PM
+start-time: 5:30PM
+end-time: 7:30PM
 calendar: 20231023T170000/20231023T190000
 location: Humanities Quadrangle 276
 card: arabesque.png

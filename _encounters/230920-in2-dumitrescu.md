@@ -4,8 +4,8 @@ title: "The 2nd Night"
 series: "Iberian Nights"
 description: "Irina Dumitrescu in conversation with Casandra Garza Reséndez and Camila Roxana Marcone."
 date: 2023-09-20
-start-time: 5:00PM
-end-time: 7:00PM
+start-time: 5:30PM
+end-time: 7:30PM
 calendar: 20230920T170000/20230920T190000
 location: Humanities Quadrangle 276
 card: arabesque.png
