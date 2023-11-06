@@ -19,11 +19,10 @@ featuring:
   - Soazick Kerneis
   - Julie Stone Peters
   - Paola Uparela
-
-with:
-  - Esteban Crespo
-  - Ana Fernandez Blazquez
-  - Nathalie Miraval
+# with:
+#   - Esteban Crespo
+#   - Ana Fernandez Blazquez
+#   - Nathalie Miraval
 ---
 
 Celestina used to work within a network of people with varied skills.
@@ -58,13 +57,47 @@ witchcraft.
 The colloquium on _The Craft_ will consist of a collective of scholars working
 together for two days from different perspectives on the practices and
 theories of Witchcraft. The material will be organized around the work
-of four speakers:
+of five guests of honor:
 
+- Julie Stone Peters (Columbia University)
+- Jessica Marie Johnson (Johns Hopkins University)
 - Lexie Cook (University of Durham, UK)
 - Soazick Kerneis (Université de Paris, Nanterre)
-- Julie Stone Peters (Columbia University)
 - Paola Uparela (University of Florida)
 
+### Program:
+
+#### Thursday, November 17th
+
+- 1:30-2:00pm: Welcome and Introduction
+
+- 2:00-3:30pm: Julie Stone Peters (Columbia University)
+
+- 3:30-4:00pm: Coffee/Yoga Break
+
+- 4:00-5:30pm: Jessica Marie Johnson (Johns Hopkins University)
+
+- 5:30-6:30pm: Reception
+
+- 7:00pm: Dinner with Guests
+
+#### Friday, November 18th
+
+- 10:00am-11:30am: Lexie Cook (University of Durham, UK)
+
+- 11:30am-12:00pm: Coffee/Yoga Break
+
+- 12:00pm-1:30pm: Soazick Kerneis (Université de Paris, Nanterre)
+
+- 1:30pm-3:00pm: Lunch Break
+
+- 3:00pm-4:30pm: Paola Uparela (University of Florida)
+
+- 4:30pm-5:30pm: Reception
+
+- 7:00pm: Dinner with Guests
+
+<!--
 We invite you to join us and be an active participant in our conversation. Please see the call for proposals below.
 
 ### Call For Proposals:
@@ -92,14 +125,14 @@ colleagues. Please complete the relevant portion of the form if you are
 eligible to receive a mini-grant.
 
 <div class="row justify-content-md-center mb-5 mt-5">
-  <div class="col">         
+  <div class="col">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpKsfnF-uXJcsbErOjWaFv3nDxBGezqSnpIrRE4BcFYDYnxA/viewform?pli=1" target="_blank" class="card-link">
         <button type="button" class="btn btn-warning text-white">
           Submit Proposal
         </button>
       </a>
   </div>
-</div>
+</div> -->
 
 With sincere gratitude for our co-sponsors: Program in Medieval Studies \| Early Modern Studies Prorgram \| Department of Comparative Literature \| The Whitney Center for the Humanities
 
