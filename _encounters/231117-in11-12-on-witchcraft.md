@@ -14,15 +14,16 @@ location: Humanities Quadrangle 276
 card: arabesque.png
 banner: the-craft.png
 featuring:
-  - Lexie Cook
   - Jessica Marie Johnson
+  - Lexie Cook
   - Soazick Kerneis
   - Julie Stone Peters
   - Paola Uparela
-# with:
-#   - Esteban Crespo
-#   - Ana Fernandez Blazquez
-#   - Nathalie Miraval
+with:
+  - Ana Paulina Lee
+  - Esteban Crespo
+  - Ana Fernandez Blazquez
+  - Nathalie Miraval
 ---
 
 Celestina used to work within a network of people with varied skills.
@@ -56,46 +57,61 @@ witchcraft.
 
 The colloquium on _The Craft_ will consist of a collective of scholars working
 together for two days from different perspectives on the practices and
-theories of Witchcraft. The material will be organized around the work
+theories of Witchcraft.
+
+<!-- The material will be organized around the work
 of five guests of honor:
 
 - Julie Stone Peters (Columbia University)
 - Jessica Marie Johnson (Johns Hopkins University)
 - Lexie Cook (University of Durham, UK)
 - Soazick Kerneis (Université de Paris, Nanterre)
-- Paola Uparela (University of Florida)
+- Paola Uparela (University of Florida) -->
 
 ### Program:
 
 #### Thursday, November 17th
 
-- 1:30-2:00pm: Welcome and Introduction
+- 1:30-2:00pm  
+  Welcome and Introduction
 
-- 2:00-3:30pm: Julie Stone Peters (Columbia University)
+- 2:00-3:30pm  
+  Julie Stone Peters (Columbia University) and Esteban Crespo (Yale University)
 
-- 3:30-4:00pm: Coffee/Yoga Break
+- 3:30-4:00pm  
+  Coffee/Yoga Break
 
-- 4:00-5:30pm: Jessica Marie Johnson (Johns Hopkins University)
+- 4:00-5:30pm  
+  Jessica Marie Johnson (Johns Hopkins University) and Ana Paulina Lee (Columbia University)
 
-- 5:30-6:30pm: Reception
+- 5:30-6:30pm  
+  Reception
 
-- 7:00pm: Dinner with Guests
+- 7:00pm  
+  Dinner with Guests
 
 #### Friday, November 18th
 
-- 10:00am-11:30am: Lexie Cook (University of Durham, UK)
+- 10:00am-11:30am  
+  Lexie Cook (University of Durham, UK) and Elie Pretot.
 
-- 11:30am-12:00pm: Coffee/Yoga Break
+- 11:30am-12:00pm  
+  Coffee/Yoga Break
 
-- 12:00pm-1:30pm: Soazick Kerneis (Université de Paris, Nanterre)
+- 12:00pm-1:30pm  
+  Soazick Kerneis (Université de Paris, Nanterre) and Ana María Díaz Burgos (Oberlin College and Conservatory)
 
-- 1:30pm-3:00pm: Lunch Break
+- 1:30pm-3:00pm  
+  Lunch Break
 
-- 3:00pm-4:30pm: Paola Uparela (University of Florida)
+- 3:00pm-4:30pm  
+  Paola Uparela (University of Florida) and Jessica Rutherford (Central Connecticut State University)
 
-- 4:30pm-5:30pm: Reception
+- 4:30pm-5:30pm  
+  Reception
 
-- 7:00pm: Dinner with Guests
+- 7:00pm  
+  Dinner with Guests
 
 <!--
 We invite you to join us and be an active participant in our conversation. Please see the call for proposals below.
