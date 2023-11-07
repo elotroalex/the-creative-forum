@@ -70,7 +70,7 @@ of five guests of honor:
 
 ### Program:
 
-#### Thursday, November 17th
+#### Friday, November 17th
 
 - 1:30-2:00pm  
   Welcome and Introduction
@@ -90,7 +90,7 @@ of five guests of honor:
 - 7:00pm  
   Dinner with Guests
 
-#### Friday, November 18th
+#### Saturday, November 18th
 
 - 10:00am-11:30am  
   Lexie Cook (University of Durham, UK) and Elie Pretot.
