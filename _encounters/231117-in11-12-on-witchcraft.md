@@ -15,15 +15,15 @@ card: arabesque.png
 banner: the-craft.png
 featuring:
   - Jessica Marie Johnson
-  - Lexie Cook
-  - Soazick Kerneis
-  - Julie Stone Peters
-  - Paola Uparela
-with:
   - Ana Paulina Lee
+  - Julie Stone Peters
   - Esteban Crespo
-  - Ana Fernandez Blazquez
-  - Nathalie Miraval
+  - Lexie Cook
+  - Elie Pretot
+  - Soazick Kerneis
+  - Ana María Díaz Burgos
+  - Paola Uparela
+  - Jessica Rutherford
 ---
 
 Celestina used to work within a network of people with varied skills.
