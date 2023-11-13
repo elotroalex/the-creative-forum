@@ -68,7 +68,7 @@ of five guests of honor:
 - Soazick Kerneis (Université de Paris, Nanterre)
 - Paola Uparela (University of Florida) -->
 
-### Program:
+### Program
 
 #### Friday, November 17th
 
