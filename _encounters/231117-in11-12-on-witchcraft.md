@@ -5,23 +5,25 @@ subtitle: "A Colloquium On Witchcraft"
 series: "Iberian Nights"
 description: "A Colloquium On Witchcraft"
 date: 2023-11-17
-start-time: 12:00PM
-end-time: 7:00PM
+start-time: 1:30PM
+end-time: 6:30PM
 end-date: 2023-11-18
-end-date-time: 12:00PM to 7:00PM
-calendar: 20231117T120000/20231117T190000
+end-date-time: 10:00AM to 5:30PM
+calendar: 20231117T133000/20231117T183000
 location: Humanities Quadrangle 276
 card: arabesque.png
 banner: the-craft.png
 featuring:
-  - Lexie Cook
-  - Soazick Kerneis
+  - Jessica Marie Johnson
+  - Ana Paulina Lee
   - Julie Stone Peters
-  - Paola Uparela
-with:
-  - Ana Fernandez Blazquez
   - Esteban Crespo
-  - Nathalie Miraval
+  - Lexie Cook
+  - Elie Pretot
+  - Soazick Kerneis
+  - Ana María Díaz Burgos
+  - Paola Uparela
+  - Jessica Rutherford
 ---
 
 Celestina used to work within a network of people with varied skills.
@@ -55,14 +57,63 @@ witchcraft.
 
 The colloquium on _The Craft_ will consist of a collective of scholars working
 together for two days from different perspectives on the practices and
-theories of Witchcraft. The material will be organized around the work
-of four speakers:
+theories of Witchcraft.
 
+<!-- The material will be organized around the work
+of five guests of honor:
+
+- Julie Stone Peters (Columbia University)
+- Jessica Marie Johnson (Johns Hopkins University)
 - Lexie Cook (University of Durham, UK)
 - Soazick Kerneis (Université de Paris, Nanterre)
-- Julie Stone Peters (Columbia University)
-- Paola Uparela (University of Florida)
+- Paola Uparela (University of Florida) -->
 
+### Program:
+
+#### Friday, November 17th
+
+- 1:30-2:00pm  
+  Welcome and Introduction
+
+- 2:00-3:30pm  
+  Julie Stone Peters (Columbia University) and Esteban Crespo (Yale University)
+
+- 3:30-4:00pm  
+  Coffee/Yoga Break
+
+- 4:00-5:30pm  
+  Jessica Marie Johnson (Johns Hopkins University) and Ana Paulina Lee (Columbia University)
+
+- 5:30-6:30pm  
+  Reception
+
+- 7:00pm  
+  Dinner with Guests
+
+#### Saturday, November 18th
+
+- 10:00am-11:30am  
+  Lexie Cook (University of Durham, UK) and Elie Pretot.
+
+- 11:30am-12:00pm  
+  Coffee/Yoga Break
+
+- 12:00pm-1:30pm  
+  Soazick Kerneis (Université de Paris, Nanterre) and Ana María Díaz Burgos (Oberlin College and Conservatory)
+
+- 1:30pm-3:00pm  
+  Lunch Break
+
+- 3:00pm-4:30pm  
+  Paola Uparela (University of Florida) and Jessica Rutherford (Central Connecticut State University)
+
+- 4:30pm-5:30pm  
+  Reception
+
+- 7:00pm  
+  Dinner with Guests
+
+<!--
 We invite you to join us and be an active participant in our conversation. Please see the call for proposals below.
 
 ### Call For Proposals:
@@ -90,14 +141,14 @@ colleagues. Please complete the relevant portion of the form if you are
 eligible to receive a mini-grant.
 
 <div class="row justify-content-md-center mb-5 mt-5">
-  <div class="col">         
+  <div class="col">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpKsfnF-uXJcsbErOjWaFv3nDxBGezqSnpIrRE4BcFYDYnxA/viewform?pli=1" target="_blank" class="card-link">
         <button type="button" class="btn btn-warning text-white">
           Submit Proposal
         </button>
       </a>
   </div>
-</div>
+</div> -->
 
 With sincere gratitude for our co-sponsors: Program in Medieval Studies \| Early Modern Studies Prorgram \| Department of Comparative Literature \| The Whitney Center for the Humanities
 

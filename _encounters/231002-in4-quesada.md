@@ -20,6 +20,12 @@ with:
 
 Join us for an evening discussing Sarah Quesada’s new book _The African Heritage of Latinx and Caribbean Literature_ (Cambridge University Press, 2022) in conversation with Santiago Acosta and Daniela Jara.
 
+#### On Sarah Quesada’s _The African Heritage of Latinx and Caribbean Literature_
+
+We asked our interlocutors to prepare some notes and glosses for us, to help jumpstart our conversation. These are linked below to our partner seminar, Iberian Connections.
+
+- Santiago Acosta. "[The Expanding Archive](https://iberian-connections.yale.edu/articles/the-expanding-archive/)"
+
 ---
 
 ### Iberian Nights

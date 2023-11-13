@@ -1,24 +1,22 @@
 ---
 layout: event
-title: "The 5th Night"
+title: "The 8th Night"
 series: "Iberian Nights"
-description: "Selby Wynn Schwartz in conversation with Inês Forjaz de Lacerda and Sofía Fernández González"
-date: 2023-10-09
+description: "A book night with Anthony Cascardi on his new book *Francisco de Goya and The Art of Critique*"
+date:
 start-time: 5:30PM
 end-time: 7:30PM
-calendar: 20231009T170000/20231009T190000
+calendar: 20231106T173000/20231106T193000
 location: Humanities Quadrangle 276
-card: arabesque.png
-banner: schwartz.jpg
-zoom: https://yale.zoom.us/meeting/register/tJIpduCvrDstEt0plusKrzk1u2SfiTr_9HBH
+card: cascardi.png
+banner: cascardi.png
 featuring:
-  - Selby Wynn Schwartz
+  - Anthony Cascardi
 with:
-  - Inês Forjaz de Lacerda
-  - Sofía Fernández González
+  - Jesús R. Velasco
 ---
 
-A night with Selby Wynn Schwartz (Stanford University), author of _After Sappho_ (2022), in conversation with Inês Forjaz de Lacerda and Sofía Fernández González.
+A book night with Anthony Cascardi, Berkeley, in conversation with Jesús R. Velasco on his new book _Francisco de Goya and The Art of Critique_ (NY: Zone Books, 2022)
 
 ---
 
