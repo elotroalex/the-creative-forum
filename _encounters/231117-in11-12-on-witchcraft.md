@@ -10,7 +10,7 @@ end-time: 6:30PM
 end-date: 2023-11-18
 end-date-time: 10:00AM to 5:30PM
 calendar: 20231117T133000/20231117T183000
-location: Humanities Quadrangle 276
+location: Humanities Quadrangle 107
 card: arabesque.png
 banner: the-craft.png
 featuring:
