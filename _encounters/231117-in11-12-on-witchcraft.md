@@ -14,10 +14,10 @@ location: Humanities Quadrangle 107
 card: arabesque.png
 banner: the-craft.png
 featuring:
-  - Jessica Marie Johnson
-  - Ana Paulina Lee
   - Julie Stone Peters
   - Esteban Crespo
+  - Jessica Marie Johnson
+  - Ana Paulina Lee
   - Lexie Cook
   - Elie Pretot
   - Soazick Kerneis
@@ -68,6 +68,8 @@ of five guests of honor:
 - Soazick Kerneis (Université de Paris, Nanterre)
 - Paola Uparela (University of Florida) -->
 
+<br>
+
 ### Program
 
 #### Friday, November 17th
@@ -113,42 +115,59 @@ of five guests of honor:
 - 7:00pm  
   Dinner with Guests
 
-<!--
-We invite you to join us and be an active participant in our conversation. Please see the call for proposals below.
+<br>
 
-### Call For Proposals:
+### Biographical sketches
 
-Please send your proposals with the attached form, which is
-self-explanatory. You can suggest:
+#### Julie Stone Peters
 
-- a talk (15 minutes)
-- a lightning talk (3 minutes, fun)
-- a poster
-- an exhibit, either virtual or physical
+To be asked to write a bio for a coven on The Craft that is to meet on Iberian Nights is to be invited to imagine 1001 other selves. Here in this prosaic world, my bio says: H. Garbedian Professor of English and Comparative Literature at Columbia University, Affiliated Faculty at Columbia Law School, Global Professorial Fellow at Queen Mary Law School in London, author of **Theatre of the Book** and **Law as Performance** (titles that may in another universe turn out to be Borges parodies), a writer on law, customs, witchcraft, democracy, technology, the police. But in Iberian Nights, I am something different altogether: a carpenter, a witch of the recamier, a haunter of prisons, a lover of thresholds, an apprentice to The Craft, a teacher of tales.
 
-We will ask for the text of your contributions to be sent at least two
-weeks before the colloquium, so that other participants can read it and
-contribute to the debate in an informed and engaged way. This will also
-limit presentation times, and will foster longer discussions.
-Organization of each panel will be related to the way in which proposals
-converse with one another.
+[Learn more about Julie Stone Peters](https://english.columbia.edu/content/julie-stone-peters)...
 
-### Mini-grants:
+#### Esteban Crespo Jaramillo
 
-Iberian Connections and The Creative Forum will offer 6 \$500
-mini-grants to graduate students, independent and early-career
-colleagues. Please complete the relevant portion of the form if you are
-eligible to receive a mini-grant.
+Esteban Crespo Jaramillo is a fourth year graduate student in the Renaissance Studies Program and the Department of Spanish and Portuguese. His research interests include the Spanish Golden Age, transatlantic studies, the history of the book, and 20th century Latin American literature. Esteban’s most recent scholarly articles have appeared or are forthcoming in _Cuadernos hispanoamericanos_ and _Revista de Hispanismo Filosófico_. He has also collaborated in the critical annotated edition of Jorge Carrera Andrade’s complete poetry, recently published in three volumes (ed. Álvaro Alemán, Quito: El Fakir, 2017).
 
-<div class="row justify-content-md-center mb-5 mt-5">
-  <div class="col">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpKsfnF-uXJcsbErOjWaFv3nDxBGezqSnpIrRE4BcFYDYnxA/viewform?pli=1" target="_blank" class="card-link">
-        <button type="button" class="btn btn-warning text-white">
-          Submit Proposal
-        </button>
-      </a>
-  </div>
-</div> -->
+#### Jessica Marie Johnson
+
+Jessica Marie Johnson is an Associate Professor in the Department of History at the Johns Hopkins University. Johnson is a historian of Atlantic slavery and the Atlantic African diaspora. She is the author of _Wicked Flesh: Black Women, Intimacy, and Freedom in the Atlantic World_ (U. of Pennsylvania Press, 2020), winner of several awards. Most recently, Johnson signed a two book deal with the Liveright, an imprint of W. W. Norton. She is as well, an internationally recognized digital humanist, Director of LifexCode: Digital Humanities Against Enclosure and Senior Research Associate with the Center for the Digital Humanities at Johns Hopkins University; and PI of two major collaborative research initiatives: Black Beyond Data, a Black studies computational and social sciences lab, and the Mellon-funded Diaspora Solidarities Lab.
+
+[Learn more about Jessica Marie Johnson](https://history.jhu.edu/directory/jessica-johnson/)...
+
+#### Ana Paulina Lee
+
+Ana Paulina Lee is associate professor of Latin American and Iberian Cultures. Lee's research and teaching interests focus on race, gender, nation, and citizenship; slavery and abolition, postcolonial studies; subaltern studies; literary theory; visual culture and performance, and cultural studies with a focus on 19th and 20th century Brazil and Portuguese-speaking Asian countries. Professor Lee is the author of _Mandarin Brazil: Race, Representation and Memory_ (Stanford University Press, 2018), winner of the 2019 Antonio Candido Prize for Best Book in the Humanities, awarded by the Brazil Section of the Latin American Studies Association. Mandarin Brazil examines the way that Brazilian cultural institutes constructed ideas about China and the Chinese to strengthen nationalism and racial whitening ideologies. The book examines the cultural histories of Brazil and China through bringing together a multigenre archive that maps the circulation of trade, labor, and material culture to reveal the connected histories of Chinese and Portuguese expansion and globalization to the hemispheric Americas. Lee co-directs the working group, Geographies of Injustice, sponsored by the Center for the Study of Social Difference, the Center for Spatial Research, and the Social Sciences Research Council.
+
+[Learn more about Ana Paulina Lee](https://laic.columbia.edu/content/ana-paulina-lee)...
+
+#### Lexie Cook
+
+Lexie Cook is Assistant Professor in the School of Modern Languages and Cultures at Durham University (UK). Cook is a specialist in the written and visual culture of the Iberian Atlantic, with a focus on the early archives of Portuguese imperialism and commerce in West Africa. Her current research is focused on the idioms of artifice – artifice understood as ingenuity and craft, as well as fiction, falsification, and deception – that emerged at the intersections of West African and Iberian language-worlds in spaces marked by asymmetrical exchange, disputes over the boundaries between sacred and commercial spheres, troubled translation, coercion, violence, but not conquest. Her first book project––"Before the Fetish: Artifice and Trade in Precolonial West Africa"––is a study of the origination of the idea of “the fetish” in the archives of the creole trading enclaves of precolonial West Africa. Her second book project – "The Mandinga Experience: Illusion and Proof in the Early Portuguese Atlantic" – has begun as a focused study of the 1690 Lisbon Inquisition case of a Cape-Verdean miracle-worker and illusionist Patrício de Andrade, denounced for putting on “experiências” (that is, demonstrations) of bodily invulnerability that were so convincing, that no one could believe he had not made a pact with the devil.
+
+#### Elie Pretot
+
+A student of the Ecole Normale Supérieure in Paris since 2020, Elie Pretot has a background in Spanish and Latin American literature, French literature and history of arts. She earned her Master’s degree in Spanish literature from Sorbonne-Université in 2023, after studying at the University of Cambridge and at the Universidad Complutense in Madrid as a visiting student. She focuses on Early Modern Spanish literature, with a special interest for the relation between magic and drama.
+
+#### Soazick Kerneis
+
+Soazick Kerneis has been professor of legal history and Roman law at the University of Paris-Ouest since September 2005 and director of the Center for the History and Anthropology of Law (CHAD). Her work essentially focuses on the phenomena of acculturation in the Roman Empire considered from a legal point of view, the gap between the written norm, rational or perceived as such, and the customary norm. Her research considers two periods of Roman history and the concerns of the western provinces, Gaul and Brittany, first at the time of the conquest, then in the 4th-5th centuries due to the establishment of barbarian communities.
+
+#### Jessica Rutherford
+
+Jessica Rutherford is an Assistant Professor of Spanish in World Languages, Literatures, and Cultures at Central Connecticut State University. She is currently transforming her dissertation into a monograph, "Jesuit Missionary Medicine: Encounters with Non-Christian Healers and Spiritual Leaders in Brazil, Mexico, and Japan, 1549-1650," which is a comparative study of the religious diversity and global dimensions of Jesuit science and medicine in the early modern period.
+
+#### Paola Uparela
+
+Paola Uparela (Assistant Professor, Hispanic Literature) specializes in Colonial and Transatlantic Latin American cultural studies, gender, sexuality, and queer studies, visual culture, race, and biopolitics. She holds a PhD in Spanish (2019) and an MA in Latin American and Iberian Studies (2015) from the University of Notre Dame, as well as a BA in Literature from Universidad de Los Andes (Colombia, 2010). Uparela's current research focuses on the colonial emergence of gyneco-scopic regimes and on the material and symbolic violence that made the female genitalia ultra-visible and intelligible. Uparela has received numerous teaching and research awards, such as the 2018 Victoria Urbano Essay Award, the Feministas Unidas Essay Prize (opens in new tab), and the fellowship Feminisms and Science: Women in STEM. Paola’s articles appear in H-ART (opens in new tab), Hispanic Issues (opens in new tab), A contracorriente (opens in new tab), Lingüística y Literatura (opens in new tab), among other academic journals. When Paola is not working, she does performing arts and loves to dance.
+
+<br>
+
+---
+
+<br>
+
+### Thank you
 
 With sincere gratitude for our co-sponsors: Program in Medieval Studies \| Early Modern Studies Prorgram \| Department of Comparative Literature \| The Whitney Center for the Humanities
 
