@@ -9,7 +9,7 @@ card: litbites.png
 <div class="container mt-5">
   <div class="row justify-content-center p-4">
     <div class="col-8">
-      <h2>Yale University | Fall 2023</h2>
+      <h2>Yale University | Spring 2024</h2>
 
       <p>
         Feast your mind and spirit on a delectable fusion of literature and
@@ -38,8 +38,8 @@ card: litbites.png
     <!-- select the two pages part of Iberian Connection -->
     <!-- end loop -->
     {% assign encounters = site.encounters | where: "series", "Literary Bites" |
-    sort: "date" %} {% for event in encounters %} {% include event-card.html
-    event=event %} {% endfor %}
+    where: "semester", "Spring 2024" | sort: "date" %} {% for event in
+    encounters %} {% include event-card.html event=event %} {% endfor %}
   </div>
 
   <!-- <div class="row justify-content-center p-4">
