@@ -5,7 +5,7 @@ series: "Literary Bites"
 description: "An exploration of the boundaries of literature and the art of phrase craft"
 date: 2023-10-27
 start-time: 12:30PM
-end-time: 2:30PM
+end-time: 2:00PM
 calendar: 20231027T123000/20231027T140000
 location: Humanities Quadrangle 276
 card: litbite1.png
