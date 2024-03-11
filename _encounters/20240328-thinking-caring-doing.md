@@ -7,8 +7,8 @@ start-time: 5:30PM
 end-time: 7:00PM
 calendar: 20240222T173000/20240222T190000
 location: Humanities Quadrangle 134
-card: thinking-caring.png
-banner: thinking-caring.png
+card: fronds.png
+banner: fronds.png
 featuring:
   - Hannah Cole
   - Gisela Heffes
