@@ -96,10 +96,11 @@ nav.scrolled {
 }
 
 .masthead.home.banner {
-    background-image: url('/images/collage-outline.png');
+    background-image: url('/images/banner-outline.png');
     animation: firstImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
+    background-position-y: center; 
 }
 
 @keyframes firstImage {
@@ -115,8 +116,9 @@ nav.scrolled {
     animation: finalImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    background-image: url('/images/collage-color.png');
+    background-image: url('/images/banner-color.png');
     background-size: cover;
+    background-position-y: center; 
     height: 100vh;
 }
 
@@ -163,19 +165,19 @@ nav.scrolled {
 
 .masthead.home h1 {
     font-family: 'Mallory Book';
-    font-size: 8vw;
-    -webkit-text-stroke: 1px #00365b; /* width and color */
+    font-size: 12vw;
+    -webkit-text-stroke: 2px #00365b; /* width and color */
 }
 
 .masthead.page h1 {
     font-family: 'Mallory Book';
     font-size: 12vw;
-    -webkit-text-stroke: 1px #00365b; /* width and color */
+    -webkit-text-stroke: 2px #00365b; /* width and color */
 }
 
 .masthead.event h1 {
     font-family: 'Mallory Book';
-    -webkit-text-stroke: 1px #00365b; /* width and color */
+    -webkit-text-stroke: 2px #00365b; /* width and color */
 }
 
 .masthead .lead {

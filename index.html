@@ -12,77 +12,45 @@ banner: homepage.png
       <div class="col col-10">
         <h1 class="text-center display-1">Welcome.</h1>
         <p>
-          Now more than ever, we are asked to think about our cultures and
-          predicaments through a bevy of disciplines and lenses. The Creative
-          Forum accepts the challenge. Our mission is simple: to bring together
-          the creative arts and scholarship in closer dialogue with one another
-          to help us better understand the worlds we inherit, and inspire us to
-          create new ones. We do this fully conscious of our mediatic and
-          computational moment. We do this together, in belonging to and for one
-          another. We do this out of a need to repair masked as a choice to
-          create. To our ends, we organize
-          <a href="/encounters.html">encounters</a>, run
-          <a href="/programs.html">programs</a> and foster collaborative
-          <a href="/ateliers.html">projects</a>. Welcome. We hope you join us.
+          Now more than ever, we are asked to think about our cultures and predicaments through a bevy of disciplines and lenses. The Creative Forum accepts the challenge. Our mission is simple: to bring together the creative arts and scholarship in closer dialogue with one another to help us better understand the worlds we inherit, and inspire us to create new ones. We do this fully conscious of our mediatic and computational moment. We do this together, in belonging to and for one another. We do this out of a need to repair masked as a choice to create. To our ends, we organize
+          <a href="/encounters.html">encounters</a>, run <a href="/programs.html">programs</a> and foster collaborative <a href="/ateliers.html">projects</a>. Welcome. We hope you join us.
         </p>
       </div>
     </div>
   </div>
 </div>
 <!-- Featured -->
-<!--   style="background-image: url('/images/scherezade.png')" -->
-<!-- <div class="featured row border border-dark">
+
+<div class="featured row border border-dark" style="background-image: url('/images/scherezade.png')">
   <div class="col-md-6 flush-col">
-    <img src="/images/arabesque.jpeg" alt="" class="featured-img" />
+    <img src="/images/night-crossings.png" alt="" class="featured-img" />
   </div>
-  <div
-    class="col-md-6 text-center p-5"
-    style="background-image: url('/images/encounters/arabesque.png')"
-  >
+  <div class="col-md-6 text-center p-5" style="background-image: url('/images/encounters/arabesque.png')">
     <div class="p-5">
-      <p class="h3 display-5 text-warning">FALL 2023</p>
+      <p class="h3 display-5 text-warning">FALL 2024</p>
       <p class="h2">Iberian Nights</p>
-      <p class="h4">Book One: Literature and Survival</p>
-      <p>
-        Inspired by the specters of Sheherazade, Dhuoda, Christine de Pizan,
-        Teresa de Cartagena, the pequeñas mujeres rojas and so many others for
-        whom the practice of literature was a matter of survival.
-      </p>
+      <p class="h4">Book Two: Crossings</p>
+      <p>Inspired by the specters of Sheherazade, Dhuoda, Christine de Pizan, Teresa de Cartagena, the pequeñas mujeres rojas and so many others for whom the practice of literature was a matter of survival.</p>
       <br />
       <div class="row justify-content-md-center mt-3">
         <div class="col">
-          <a href="/special/iberian-nights.html" class="card-link"
-            ><button type="button" class="btn btn-primary">
-              Learn more
-            </button></a
-          >
+          <a href="/special/iberian-nights.html" class="card-link"><button type="button" class="btn btn-primary">Learn more</button></a>
         </div>
       </div>
     </div>
   </div>
-</div> -->
+</div>
 <div class="featured row border border-dark">
-  <div
-    class="col-md-6 text-center p-5"
-    style="background-image: url('/images/pattern.png')"
-  >
+  <div class="col-md-6 text-center p-5" style="background-image: url('/images/pattern.png')">
     <div class="p-5">
-      <p class="h3 display-5 text-primary">Spring 2024</p>
+      <p class="h3 display-5 text-primary">Fall 2024</p>
       <p class="h2">Literary Bites</p>
       <p class="h4">A Luncheon with a Plot Twist</p>
-      <p>
-        Feast your mind and spirit on a delectable fusion of literature and
-        intellectual nourishment with "Literary Bites"—a Luncheon Series with a
-        new plot twist each month.
-      </p>
+      <p>Feast your mind and spirit on a delectable fusion of literature and intellectual nourishment with "Literary Bites"—a Luncheon Series with a new plot twist each month.</p>
       <br />
       <div class="row justify-content-md-center mt-3">
         <div class="col">
-          <a href="/special/literary-bites.html" class="card-link"
-            ><button type="button" class="btn btn-warning text-light">
-              Learn more
-            </button></a
-          >
+          <a href="/special/literary-bites.html" class="card-link"><button type="button" class="btn btn-warning text-light">Learn more</button></a>
         </div>
       </div>
     </div>
@@ -98,20 +66,13 @@ banner: homepage.png
     <div class="row justify-content-center">
       <div class="col col-10 mb-3">
         <h2 class="">Up next...</h2>
-        <p class="">
-          We host a wide array of public events and speakers, bringing together
-          writers, artists, public activists, scholars and more. Here are some
-          of our upcoming encounters. To see a full list of our past and future
-          events, visit our <a href="/encounters.html">encounters</a> page.
-        </p>
+        <p class="">We host a wide array of public events and speakers, bringing together writers, artists, public activists, scholars and more. Here are some of our upcoming encounters. To see a full list of our past and future events, visit our <a href="/encounters.html">encounters</a> page.</p>
       </div>
       <div class="row">
         <!-- liquid loop through pages in the collection 'encounters' -->
         <!-- select the two pages with the closest dates in the future -->
         <!-- end loop -->
-        {% assign encounters = site.encounters | where_exp: "item", "item.date
-        >= site.time" | sort: "date" %} {% for event in encounters limit: 2 %}
-        {% include event-card.html event=event %} {% endfor %}
+        {% assign encounters = site.encounters | where_exp: "item", "item.date >= site.time" | sort: "date" %} {% for event in encounters limit: 2 %} {% include event-card.html event=event %} {% endfor %}
       </div>
     </div>
   </div>
@@ -121,19 +82,9 @@ banner: homepage.png
     <div class="row">
       <div class="col-8">
         <h2 class="text-primary">Get involved</h2>
-        <p class="">
-          We welcome all faculty, graduate researchers, undergraduate students
-          and staff at Yale interested in the intersection of the creative arts
-          and scholarship. Our doors are open to all collaborative,
-          experimental, mobilized, public and digital humanities praxis. If you
-          are interested in getting involved, please contact us.
-        </p>
+        <p class="">We welcome all faculty, graduate researchers, undergraduate students and staff at Yale interested in the intersection of the creative arts and scholarship. Our doors are open to all collaborative, experimental, mobilized, public and digital humanities praxis. If you are interested in getting involved, please contact us.</p>
         <p>
-          <a href="mailto:alex.gil@yale.edu"
-            ><button type="button" class="btn btn-outline-primary">
-              Send us an email
-            </button></a
-          >
+          <a href="mailto:alex.gil@yale.edu"><button type="button" class="btn btn-outline-primary">Send us an email</button></a>
         </p>
       </div>
       <div class="col-4">
