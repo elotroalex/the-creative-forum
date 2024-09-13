@@ -21,17 +21,20 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities
 #### Faculty Board
 
 [Santiago ACOSTA](https://span-port.yale.edu/people/santiago-acosta)  
-Assistant Professor of Latin American Cultures  
+Assistant Professor of Latin American Cultures
 
 [Mayte LÓPEZ](https://span-port.yale.edu/people/mayte-lopez)  
 Lector of Spanish
 
+[Olivia Lott](https://span-port.yale.edu/people/olivia-lott)  
+Assistant Professor of Spanish
 
 #### Conveners, contributors, and creators:
 
 [Alan MENDOZA SOSA](https://span-port.yale.edu/people/alan-mendoza-sosa)  
-[Gaëlle LE CALVEZ HOUSE](https://span-port.yale.edu/people/gaelle-le-calvez-house)  
 [Katherina FRANGI](https://span-port.yale.edu/people/katherina-frangi)  
+[Ana FERNÁNDEZ-BLÁZQUEZ](https://span-port.yale.edu/people/ana-fernandez-blazquez)  
+[Sofía FERNÁNDEZ GONZÁLEZ](https://span-port.yale.edu/people/sofia-fernandez-gonzalez)  
 You, soon we hope!
 
 ## What we do
