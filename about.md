@@ -26,7 +26,7 @@ Assistant Professor of Latin American Cultures
 [Mayte LÓPEZ](https://span-port.yale.edu/people/mayte-lopez)  
 Lector of Spanish
 
-[Olivia Lott](https://span-port.yale.edu/people/olivia-lott)  
+[Olivia LOTT](https://span-port.yale.edu/people/olivia-lott)  
 Assistant Professor of Spanish
 
 #### Conveners, contributors, and creators:
