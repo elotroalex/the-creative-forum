@@ -83,6 +83,12 @@ banner: homepage.png
 <div class="section bg-white p-4 mt-4">
   <div class="container">
     <div class="row justify-content-center">
+      {% assign today = "today" | date: "%Y-%m-%d" %} {% assign count = "" | split: ',' %} {% for event in site.encounters %} {% assign when = event.date | date: "%Y-%m-%d" %} {% if when == today %}
+      <div class="col col-10 mb-3">
+        <h2 class="">Happening Today!</h2>
+        {% break %} {% endif %}{% endfor %}
+      </div>
+      <div class="row mb-5">{% for event in site.encounters %} {% assign when = event.date | date: "%Y-%m-%d" %} {% if when == today %}{% include event-card.html event=event %}{% endif %} {% endfor %}</div>
       <div class="col col-10 mb-3">
         <h2 class="">Up next...</h2>
         <p class="">We host a wide array of public events and speakers, bringing together writers, artists, public activists, scholars and more. Here are some of our upcoming encounters. To see a full list of our past and future events, visit our <a href="/encounters.html">encounters</a> page.</p>
