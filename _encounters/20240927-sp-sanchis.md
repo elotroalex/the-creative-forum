@@ -8,7 +8,7 @@ semester: Fall 2024
 start-time: 12:30PM
 end-time: 2:00PM
 calendar: 20240927T123000/20240927T140000
-location: TBD
+location: HQ134
 card: sanchis.jpg
 banner: sanchis-thumb.jpg
 featuring:
