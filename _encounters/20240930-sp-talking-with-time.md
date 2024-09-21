@@ -12,7 +12,7 @@ location: Luce Hall 276
 card: talking-with-time-thumb.png
 banner: talking-with-time.png
 featuring:
-  - Francisco Huichaqueo
+  - James Maffie
 with:
   - Luna Nájera
   - Allison Caplan
