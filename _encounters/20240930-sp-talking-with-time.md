@@ -18,11 +18,11 @@ with:
   - Allison Caplan
 ---
 
-Please join us for a talk by James Maffie, author of _Aztec Philosophy: Understanding a World in Motion_.
+Please join us for a talk by and discussion with James Maffie, author of _Aztec Philosophy: Understanding a World in Motion_. In _Aztec Philosophy_, James Maffie shows that Aztecs advanced a highly sophisticated and internally coherent systematic philosophy worthy of consideration alongside other philosophies from around the world. Bringing together the fields of comparative world philosophy and Mesoamerican studies, Maffie excavates the distinctly philosophical aspects of Aztec thought. We hope you'll join us for this opportunity to learn more about Maffie's research and to engage in a discussion about Mexica calendric divination, and its implications for our understanding of Aztec culture.
 
 ### About our Guest Speaker
 
-Dr. Maffie is Emeritus Lecturer, Department of History, University of Maryland
+Dr. Maffie is Emeritus Lecturer of the Department of History, and Affiliate Faculty of the Latin American and Caribbean Studies Center at the University of Maryland.
 
 ### Sponsored by
 
