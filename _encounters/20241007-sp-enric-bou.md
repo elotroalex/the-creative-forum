@@ -24,7 +24,7 @@ Los invitamos a una deliciosa charla y discusión con Enric Bou. Prof. Bou nos p
 
 ### Sobre nuestro invitado
 
-Enric Bou es profesor de literatura española en el departamento de Linguistics and Comparative Cultural Studies en la Universidad Ca'Foscari de Venecia. Es autor de varios libros y artículos sobre literatura y cultura española, y ha sido investigador visitante y tutelar en varias universidades de Europa y América.
+Enric Bou es profesor de literatura española en el departamento de Linguistics and Comparative Cultural Studies en la Universidad Ca'Foscari de Venecia. Es autor de varios libros y artículos sobre literatura y cultura española, y ha sido investigador visitante y titular en varias universidades de Europa y América, incluyendo su labor como Chair y Full Professor of Hispanic Studies en Brown University.
 
 ### Patrocinado por
 
