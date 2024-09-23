@@ -29,3 +29,5 @@ Enric Bou es profesor de literatura española en el departamento de Linguistics 
 ### Patrocinado por
 
 The Department of Spanish & Portuguese
+The Macmillan Center for International and Area Studies
+The European Studies Council
