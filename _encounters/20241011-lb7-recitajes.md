@@ -9,8 +9,8 @@ start-time: 12:30PM
 end-time: 2:00PM
 calendar: 20241011T123000/20241011T140000
 location: HQ 276
-card: litbite2.png
-banner: litbite2.png
+card: litbites7.jpg
+banner: litbites7.jpg
 featuring:
   - Luis Prieto
   - Marcos García Barrero
