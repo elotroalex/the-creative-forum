@@ -1,8 +1,10 @@
 - title: About
   url: /about.html
-- title: Programs
-  url: /programs.html
+# - title: Programs
+#   url: /programs.html
 - title: Encounters
   url: /encounters.html
+- title: Variantes
+  url: /variantes/
 # - title: Ateliers
 #   url: /ateliers.html
