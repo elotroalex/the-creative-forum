@@ -1,4 +1,6 @@
 @charset "UTF-8";
+/* Custom Variables */
+/* change Bootstrap 5 primary color to red */
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
  * Copyright 2011-2024 The Bootstrap Authors
@@ -12357,8 +12359,6 @@ textarea.form-control-lg {
 }
 
 /* Bootstrap Overrides */
-/* Custom Variables */
-/* change Bootstrap 5 primary color to red */
 p {
   font-size: 18px;
 }
@@ -12396,6 +12396,15 @@ h1, h2, h3, h4 {
 
 .home-nav-title, .navbar-brand {
   display: none;
+  font-family: "Mallory Light", Helvetica, Arial, sans-serif;
+}
+
+.navbar-brand-visible {
+  display: inline;
+}
+
+.nav-title {
+  font-family: "Mallory Light", Helvetica, Arial, sans-serif;
 }
 
 nav.scrolled .home-nav-title, nav.scrolled .navbar-brand, nav.scrolled .nav-title {
@@ -12529,6 +12538,16 @@ nav.scrolled {
 .masthead .lead {
   color: #f9f9f9;
   font-size: 1.4rem;
+}
+
+.btn-primary {
+  background-color: #00365b !important;
+  border-color: #00365b !important;
+}
+
+.btn-primary:hover {
+  background-color: #be7e45 !important;
+  border-color: #be7e45 !important;
 }
 
 .featured {
