@@ -22,6 +22,37 @@ banner: homepage.png
 <!-- Featured -->
 
 <div class="featured row border border-dark" style="">
+  <!-- <div class="col-12 flush-col">
+    <img src="/images/variantes.png" alt="" class="featured-img" />
+  </div> -->
+  <div class="col-12 text-center p-5" style="background-image: url('/images/variantes.png'); background-repeat: no-repeat; background-size: 100%">
+    <div class="p-5">
+      <p class="h1 text-warning text-end">Announcing Variantes!</p>
+      <p class="text-end">The Literary Magazine of the Yale Department of Spanish & Portuguese</p>
+
+      <p></p>
+      <br />
+      <div class="row justify-content-md-center mt-3">
+        <div class="col text-end">
+          <a href="/special/iberian-nights-book-two.html" class="card-link"><button type="button" class="btn btn-outline-primary">Learn more</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section bg-light p-4">
+  <div class="container">
+    <div class="row justify-content-center mt-4">
+      <div class="col col-10">
+        <h2 class="text-center display-2">Our Events.</h2>
+        <p>We host a wide array of public events and speakers, bringing together writers, artists, public activists, scholars and more. Here are some of our upcoming encounters. To see a full list of our past and future events, visit our <a href="/encounters.html">encounters</a> page.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="featured row border border-dark" style="">
   <div class="col-md-6 flush-col">
     <img src="/images/night-crossings.png" alt="" class="featured-img" />
   </div>
@@ -80,7 +111,7 @@ banner: homepage.png
 </div>
 
 <!-- Coming soon section -->
-<div class="section bg-white p-4 mt-4">
+<!-- <div class="section bg-white p-4 mt-4">
   <div class="container">
     <div class="row justify-content-center">
       {% assign today = "today" | date: "%Y-%m-%d" %} {% assign count = "" | split: ',' %} {% for event in site.encounters %} {% assign when = event.date | date: "%Y-%m-%d" %} {% if when == today %}
@@ -93,15 +124,17 @@ banner: homepage.png
         <h2 class="">Up next...</h2>
         <p class="">We host a wide array of public events and speakers, bringing together writers, artists, public activists, scholars and more. Here are some of our upcoming encounters. To see a full list of our past and future events, visit our <a href="/encounters.html">encounters</a> page.</p>
       </div>
-      <div class="row">
-        <!-- liquid loop through pages in the collection 'encounters' -->
-        <!-- select the two pages with the closest dates in the future -->
-        <!-- end loop -->
-        {% assign encounters = site.encounters | where_exp: "item", "item.date >= site.time" | sort: "date" %} {% for event in encounters limit: 2 %} {% include event-card.html event=event %} {% endfor %}
+      <div class="row"> -->
+<!-- liquid loop through pages in the collection 'encounters' -->
+<!-- select the two pages with the closest dates in the future -->
+<!-- end loop -->
+<!-- {% assign encounters = site.encounters | where_exp: "item", "item.date >= site.time" | sort: "date" %} {% for event in encounters limit: 2 %} {% include event-card.html event=event %} {% endfor %} 
       </div>
-    </div>
+    </div> 
   </div>
-</div>
+</div> -->
+
+<!-- Get involved section -->
 <div class="section bg-light p-4">
   <div class="container">
     <div class="row">
