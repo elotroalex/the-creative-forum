@@ -4,6 +4,19 @@ on:
     branches: ["main"]
   schedule:
     - cron: "00 00 * * *"
+  workflow_dispatch: # Add this line to enable manual triggering
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        type: choice
+        options:
+        - production
+        - staging
 jobs:
   build:
     if: true
