@@ -7,23 +7,23 @@ on:
   workflow_dispatch: # Add this line to enable manual triggering
     inputs:
       logLevel:
-        description: 'Log level'
+        description: "Log level"
         required: true
-        default: 'warning'
+        default: "warning"
       environment:
-        description: 'Environment to deploy to'
+        description: "Environment to deploy to"
         required: true
         type: choice
         options:
-        - production
-        - staging
+          - production
+          - staging
 jobs:
   build:
     if: true
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-20.04]
+        os: [ubuntu-latest]
         ruby: [ruby-3.1]
     runs-on: ${{ matrix.os }}
     steps:
