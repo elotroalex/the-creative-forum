@@ -84,13 +84,6 @@ nav.scrolled {
     border-bottom: 2px solid black;
 }
 
-.masthead.event.banner {
-    height: 80vh;
-    min-height: 200px;
-    background-size: cover;
-    border-bottom: 0;
-}
-
 .masthead.short {
     margin: 20vh 0 10vh 0;
 }
@@ -175,11 +168,6 @@ nav.scrolled {
     -webkit-text-stroke: 2px #00365b; /* width and color */
 }
 
-.masthead.event h1 {
-    font-family: 'Mallory Book';
-    -webkit-text-stroke: 2px #00365b; /* width and color */
-}
-
 .masthead .lead {
     color: #f9f9f9;
     font-size: 1.4rem;
@@ -189,7 +177,7 @@ nav.scrolled {
     text-shadow: 5px 2px 5px black;
 }
 
-//  Featured Events
+// Featured panels
 
 .featured {
     min-height: 300px;
@@ -211,21 +199,6 @@ nav.scrolled {
 
 button {
     font-family: 'Mallory Book' !important;
-}
-
-span.series {
-    display: block;
-    margin-top: 1rem;
-    font-size: 1.8rem;
-    text-transform: uppercase;
-    letter-spacing: .1rem;
-}
-
-span.series-thumb {
-    display: block;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: .1rem;
 }
 
 .caption {
