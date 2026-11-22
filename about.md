@@ -11,8 +11,8 @@ The Creative Forum is an unlocated space at Yale for the exploration of the crea
 
 **Director of the Creative Forum**  
 The Chair of the Department of Spanish & Portuguese, currently,  
-[Jesús R. VELASCO](https://span-port.yale.edu/people/jesus-velasco)  
-Augustus R. Street Professor of Spanish & Portuguese and Comparative Literature
+[Lisa Voigt](https://span-port.yale.edu/people/lisa-voigt)  
+Professor of Spanish & Portuguese
 
 **Associate Director of the Creative Forum**  
 [Alex GIL](https://span-port.yale.edu/people/alex-gil)  
@@ -45,13 +45,10 @@ The Creative Forum pursues its mission through programs, events and projects. We
 
 The Creative Forum was founded in 2022 after a successful vote by the [Department of Spanish & Portuguese](https://span-port.yale.edu). The then chair of the department, Jesús R. Velasco, asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. Planning did not stop The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward.
 
-## Our nascent programs
+## Open for business
 
-We designed a few starter programs to help us get going. We want more, and are open to suggestions and collaborations. Please [get in touch](mailto:alex.gil@yale.edu) if you have ideas or would like to join us in any of these initiatives.
+Here are activities we encourage and are ready to support. We want more, and are open to suggestions and collaborations. Please [get in touch](mailto:alex.gil@yale.edu) if you have ideas or would like to join us in any of these initiatives.
 
-### Literary Bites: A Creative Forum Luncheon Series
-
-Feast your mind and spirit on a delectable fusion of literature and intellectual nourishment with “Literary Bites,” a Literary Luncheon Series. We will bring together talented writers, scholars, and students for a unique fusion of literary discourse and intellectual community. At these monthly catered lunches, we aim to serve up thought-provoking conversations about past and ongoing projects, showcase Yale’s established and up-and-coming literary talents, and strive to transform our department into a thriving hub for literary creation. Come join us for a literary spread that will leave you savoring every word. To catch upcoming events, please [keep an eye out on the department website](https://span-port.yale.edu/).
 
 ### The Collaborative Research Incubator
 
@@ -59,7 +56,7 @@ At the Forum, we believe that scholarship in the humanities has always been a co
 
 ### Digital and Experimental Methods Series
 
-Every semester, we will hold a series of workshops on digital and experimental humanities methods and tools. These workshops will be open to all members of the Yale community, and will be taught by members of the Forum, the Yale Graduate Digital Humanities Colloquium, fellow colleagues, and invited guests. We will also be happy to help you organize a workshop on a topic of your choice. Graduate students are welcome to take the series for credit. Get in touch to learn more, and keep an eye out on our events page for upcoming workshops.
+Every semester, we can hold workshops on digital and experimental humanities methods and tools. These workshops are open to all members of the Yale community. We will be happy to help you organize a workshop on a topic of your choice. Get in touch to learn more, and keep an eye out on our events page for upcoming workshops.
 
 ### Talkshops
 
