@@ -1,65 +1,84 @@
 ---
 layout: home
 title: "The Creative Forum"
-subtitle: "at the Yale Department of Spanish & Portuguese"
-banner: homepage.png
 ---
 
-<!-- Intro paragraph -->
-<div class="section bg-light p-4">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col col-10">
-        <h1 class="text-center display-1">Welcome.</h1>
-        <p>
-          Now more than ever, we are asked to think about our cultures and predicaments through a bevy of disciplines and lenses. The Creative Forum accepts the challenge. Our mission is simple: to bring together the creative arts and scholarship in closer dialogue with one another to help us better understand the worlds we inherit, and inspire us to create new ones. Today, the Forum is home to the creative work of the Department of Spanish & Portuguese: our literary magazine, our film festival, and the projects still to come.
-        </p>
-        <p>
-          Looking for talks, readings and other events? Visit the <a href="https://span-port.yale.edu/">Department of Spanish & Portuguese</a>.
-        </p>
-      </div>
+<section class="hero">
+  <div class="word">
+    <h1>The <em>Creative</em> <span>Forum</span></h1>
+    <p class="sub">Creative work from the Yale Department of Spanish &amp; Portuguese.</p>
+  </div>
+  <figure>
+    <img src="/images/muro/madone.jpg" alt="Mural of a skeletal Madonna in a golden veil holding a sacred heart, painted on a purple wall in São Paulo" />
+  </figure>
+</section>
+
+<section class="intro">
+  <div class="wrap">
+    <h2>Welcome.</h2>
+    <div>
+      <p>
+        Now more than ever, we are asked to think about our cultures and predicaments through a bevy of disciplines and lenses. The Creative Forum accepts the challenge. Our mission is simple: to bring together the creative arts and scholarship in closer dialogue with one another to help us better understand the worlds we inherit, and inspire us to create new ones. Today, the Forum is home to the creative work of the Department of Spanish &amp; Portuguese: our literary magazine, our film festival, and the projects still to come.
+      </p>
+      <p>Looking for talks, readings and other events? They now live on the department's website.</p>
+      <a class="events" href="https://span-port.yale.edu/">Events at span-port.yale.edu</a>
     </div>
   </div>
-</div>
+</section>
 
-<!-- Variantes -->
-<div class="featured row border border-dark">
-  <div class="col-12 text-center p-5" style="background-image: url('/images/variantes.png'); background-repeat: no-repeat; background-size: 100%">
-    <div class="p-5">
-      <p class="h1 text-warning text-end">Variantes</p>
-      <p class="text-end">The Literary Magazine of the Yale Department of Spanish & Portuguese</p>
-      <br />
-      <div class="row justify-content-md-center mt-3">
-        <div class="col text-end">
-          <a href="https://campuspress.yale.edu/variantes/" class="card-link"><button type="button" class="btn btn-outline-primary">Read Variantes</button></a>
-        </div>
-      </div>
+<section class="panels" aria-label="Our projects">
+  <article class="panel" id="variantes">
+    <img src="/images/muro/estrangeiro.jpg" alt="Os Gêmeos' giant yellow figure in a patterned shirt painted on the side of a São Paulo building" style="object-position: 50% 30%" />
+    <div class="label">
+      <h2>Variantes</h2>
+      <p class="kicker">The literary magazine</p>
+      <p>Published by the Yale Department of Spanish &amp; Portuguese.</p>
+      <a class="button" href="https://campuspress.yale.edu/variantes/">Read Variantes</a>
     </div>
-  </div>
-</div>
-
-<!-- Film festival -->
-<div class="featured row border border-dark">
-  <div class="col-12 text-center p-5" style="background-image: url('/images/pattern.png')">
-    <div class="p-5">
-      <p class="h2 display-5 text-primary">Film Festival</p>
-      <p class="h4">Coming soon</p>
+  </article>
+  <article class="panel fest" id="festival">
+    <img src="/images/muro/medellin.jpg" alt="Painted stairways and houses covered in graffiti in Comuna 13, Medellín" />
+    <div class="label">
+      <h2>Film Festival</h2>
+      <p class="kicker">Name to come</p>
       <p>The department's film festival is in the works. Check back for its name, dates and program.</p>
+      <span class="sticker">Coming soon</span>
     </div>
-  </div>
-</div>
+  </article>
+</section>
 
-<!-- Get involved section -->
-<div class="section bg-light p-4">
-  <div class="container">
-    <div class="row">
-      <div class="col-8">
-        <h2 class="text-primary">Get involved</h2>
-        <p class="">We welcome all faculty, graduate researchers, undergraduate students and staff at Yale interested in the intersection of the creative arts and scholarship. If you would like to contribute to Variantes, the film festival, or have an idea for a new creative project, please contact us.</p>
-        <p>
-          <a href="mailto:{{ site.email }}"><button type="button" class="btn btn-outline-primary">Send us an email</button></a>
-        </p>
-      </div>
+<section class="walls" aria-labelledby="walls-title">
+  <div class="wrap">
+    <h2 id="walls-title">More street art of the <span>Spanish- and Portuguese-speaking</span> world... just because.</h2>
+    <ul>
+      <li>
+        <figure>
+          <img src="/images/muro/maputo.jpg" alt="An artist carving a relief of many faces into a wall in Maputo" />
+          <figcaption>Maputo, Mozambique</figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img src="/images/muro/valparaiso.jpg" alt="A mural of Valparaíso's streets and stairways painted on a stairway wall" />
+          <figcaption>Valparaíso, Chile</figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img src="/images/muro/lisboa.jpg" alt="Paste-up figures cut from old photographs on a wall in Lisbon" />
+          <figcaption>Lisbon, Portugal</figcaption>
+        </figure>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="involved">
+  <div class="wrap">
+    <h2>Get involved</h2>
+    <div>
+      <p>We welcome all faculty, graduate researchers, undergraduate students and staff at Yale interested in the intersection of the creative arts and scholarship. If you would like to contribute to Variantes, the film festival, or have an idea for a new creative project, please contact us.</p>
+      <a class="button" href="mailto:{{ site.email }}">Send us an email</a>
     </div>
   </div>
-</div>
+</section>

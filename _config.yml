@@ -1,12 +1,12 @@
 url: "https://creativeforum.yale.edu"
 title: "The Creative Forum"
+description: "Creative work from the Yale Department of Spanish & Portuguese: the literary magazine Variantes, our film festival, and projects to come."
 
 owner: Yale Department of Spanish & Portuguese
 email: alex.gil@yale.edu
 
 sass:
-  load_paths:
-    - _sass
+  style: compressed
 
 webrick:
   headers:

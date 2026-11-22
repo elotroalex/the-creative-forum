@@ -1,0 +1,49 @@
+# Image credits shown at the bottom of every page.
+# Each entry: the image file in /images/muro, the work, its artist, where it is,
+# the photographer, the license and the Wikimedia Commons source page.
+- file: madone.jpg
+  work: La Madone de São Paulo
+  artist: Alexis Diaz & INTI
+  place: São Paulo, Brazil
+  photo: Wilfredor
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:La_Madone_de_S%C3%A3o_Paulo_painting_by_Alexis_Diaz_and_INTI_in_S%C3%A3o_Paulo_downtown.jpg
+- file: estrangeiro.jpg
+  work: O Estrangeiro
+  artist: Os Gêmeos
+  place: Vale do Anhangabaú, São Paulo, Brazil
+  photo: Henrique Boney
+  license: CC BY-SA 3.0
+  license_url: https://creativecommons.org/licenses/by-sa/3.0/
+  source: https://commons.wikimedia.org/wiki/File:O_Estrangeiro,_graffiti_por_Os_G%C3%AAmeos,_Vale_do_Anhangaba%C3%BA,_S%C3%A3o_Paulo.jpg
+- file: medellin.jpg
+  work: Graffiti in Comuna 13
+  place: Medellín, Colombia
+  photo: Bernard Gagnon
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Graffiti_in_Comuna_13,_Medell%C3%ADn_03.jpg
+- file: maputo.jpg
+  work: Relief wall
+  artist: Ivan
+  place: Maputo, Mozambique
+  photo: 843279305mz
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Ivan%27s_wall_art_-_Maputo.jpg
+- file: valparaiso.jpg
+  work: Stairway mural
+  place: Valparaíso, Chile
+  photo: Pequeño mar
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  source: https://commons.wikimedia.org/wiki/File:Mural_Valpara%C3%ADso_1.jpg
+- file: lisboa.jpg
+  work: Paste-ups
+  artist: Leo & Pipo
+  place: Lisbon, Portugal
+  photo: Juan Antonio F. Segal
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
+  source: https://commons.wikimedia.org/wiki/File:Street_art_in_Lisboa_by_Leo_%26_Pipo_(6082193771).jpg

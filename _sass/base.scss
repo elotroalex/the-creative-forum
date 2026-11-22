@@ -1,225 +1,266 @@
+// Muro: the Creative Forum's visual language, drawn from street art in the
+// Spanish- and Portuguese-speaking world (images from Wikimedia Commons).
+// Wall color, poster lettering, labels that look pasted onto photographs.
 
-@import "vars";
-@import "bootstrap-5.3.0/scss/bootstrap.scss";
+// ---------- Tokens ----------
+$violet: #5a2d82;   // La Madone de São Paulo
+$spray: #e4572e;    // spray-paint orange
+$ochre: #e8a93a;    // the Madonna's veil
+$leaf: #2f8f5b;     // Comuna 13 green
+$concrete: #d8d5ce; // wall
+$paper: #ecebe7;    // lighter wall for reading areas
+$asphalt: #1d1c21;  // street
 
-/* Bootstrap Overrides */
+$display: "Anton", Impact, "Arial Narrow", sans-serif;
+$text: "Archivo", "Helvetica Neue", Arial, sans-serif;
 
-p { font-size: 18px; }
+$gutter: max(16px, env(safe-area-inset-left, 0px));
+$max: 1180px;
 
+// ---------- Base ----------
+*, *::before, *::after { box-sizing: border-box; }
 
-
-/* Custom Styles */
-
-
-
-
-@font-face {
-    font-family: 'Yale New Roman';
-    src: url(/assets/fonts/YaleNewRoman.otf) format(opentype);
-}
-
-@font-face {
-    font-family: 'Mallory Light';
-    src: url(/assets/fonts/MalloryLight.ttf) format(truetype);
-}
-
-@font-face {
-    font-family: 'Mallory Book';
-    src: url(/assets/fonts/MalloryBook.ttf) format(truetype);
-}
-
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-
-$bodyFont: "Yale New Roman",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+html { -webkit-text-size-adjust: 100%; }
 
 body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
+  margin: 0;
+  background: $paper;
+  color: $asphalt;
+  font-family: $text;
+  font-size: 1.0625rem;
+  line-height: 1.6;
 }
 
-h1, h2, h3, h4 {
-    font-family: 'Mallory Light';
+img { max-width: 100%; display: block; }
+
+a { color: $violet; text-underline-offset: .18em; text-decoration-thickness: .08em; }
+a:hover { color: $spray; }
+:focus-visible { outline: 3px solid $spray; outline-offset: 2px; }
+
+h1, h2, h3 { text-wrap: balance; }
+
+.wrap {
+  max-width: $max;
+  margin: 0 auto;
+  padding-left: $gutter;
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
 
-// Navbar
-
-.home-nav-title {
-    display: none;
+.skip {
+  position: absolute; left: -999px; top: 0;
+  background: $ochre; color: $asphalt; padding: .5rem 1rem; z-index: 10;
+  &:focus { left: 1rem; }
 }
 
-nav.scrolled .home-nav-title, nav.scrolled .nav-title {
-    display: inline;
-    color: $light !important;
-}
+// ---------- Navigation ----------
+.site-nav {
+  background: $asphalt;
+  color: $concrete;
 
-@media screen and (max-width: 380px) {
-    .home-nav-title, .nav-title {
-        display: none;
-    }
+  .wrap {
+    display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+    gap: .5rem 1.5rem; padding-block: .85rem;
   }
-
-
-nav {
-    transition: background-color 0.4s ease-in-out;
+  .brand {
+    font-family: $display; font-size: 1.35rem; letter-spacing: .03em; text-transform: uppercase;
+    color: $concrete; text-decoration: none;
+  }
+  ul { display: flex; flex-wrap: wrap; gap: .4rem 1.4rem; list-style: none; margin: 0; padding: 0; }
+  ul a {
+    color: $concrete; text-decoration: none; font-weight: 600; font-size: .85rem;
+    letter-spacing: .08em; text-transform: uppercase;
+    &:hover, &[aria-current="page"] { color: $ochre; }
+  }
 }
 
-nav.scrolled {
-    background-color: #00365b !important;
-    opacity: .9 !important;
+// ---------- Home: hero ----------
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  background: $violet;
+  color: $concrete;
+  min-height: min(78vh, 680px);
+
+  .word {
+    display: flex; flex-direction: column; justify-content: space-between; gap: 2rem;
+    padding: clamp(2rem, 5vw, 3.5rem) $gutter clamp(1.5rem, 4vw, 2.5rem);
+  }
+  h1 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(3.6rem, 10vw, 8.5rem); line-height: .86; margin: 0;
+  }
+  h1 em { font-style: normal; color: $ochre; display: block; }
+  h1 span {
+    display: inline-block; background: $spray; color: $asphalt;
+    padding: 0 .12em; transform: rotate(-2deg);
+  }
+  .sub { margin: 0; font-weight: 600; font-size: 1.1rem; max-width: 30ch; }
+  figure { margin: 0; min-height: 320px; position: relative; }
+  figure img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 }
 
-.navbar-brand {
-    color: #00365b;
+// ---------- Home: intro ----------
+.intro {
+  padding-block: clamp(2.5rem, 6vw, 4.5rem);
+
+  .wrap { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 1.5rem 3rem; }
+  h2 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: .95; margin: 0;
+  }
+  p { margin: 0 0 1rem; max-width: 62ch; }
+  .events {
+    display: inline-block; margin-top: .4rem; padding: .55rem .9rem;
+    background: $asphalt; color: $concrete; text-decoration: none;
+    font-weight: 600; font-size: .85rem; letter-spacing: .06em; text-transform: uppercase;
+    &:hover { background: $spray; color: $asphalt; }
+  }
 }
 
-// Masthead
+// ---------- Home: showcase panels ----------
+.panels { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 
+.panel {
+  position: relative; overflow: hidden; min-height: clamp(360px, 48vw, 540px);
+  scroll-margin-top: 1rem;
 
-.banner {
-    height: 100vh;
-    min-height: 500px;
-    background-size: cover;
-    border-bottom: 2px solid black;
+  > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+
+  .label {
+    position: absolute; left: clamp(1rem, 3vw, 2rem); top: clamp(1rem, 3vw, 2rem);
+    max-width: min(80%, 24rem);
+    background: $concrete; color: $asphalt;
+    padding: 1rem 1.2rem 1.2rem;
+    transform: rotate(-1.5deg);
+    box-shadow: 6px 6px 0 $asphalt;
+  }
+  h2 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1; margin: 0 0 .2rem;
+  }
+  .kicker { margin: 0; font-weight: 600; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; }
+  p { margin: .6rem 0 0; font-size: .98rem; line-height: 1.5; }
+
+  &.fest .label { background: $ochre; transform: rotate(1.5deg); }
 }
 
-.masthead.short {
-    margin: 20vh 0 10vh 0;
+.button {
+  display: inline-block; margin-top: .9rem; padding: .5rem .9rem;
+  background: $asphalt; color: $concrete; text-decoration: none;
+  font-weight: 600; font-size: .85rem; letter-spacing: .06em; text-transform: uppercase;
+  &:hover { background: $violet; color: $concrete; }
 }
 
-.masthead.home.banner {
-    background-image: url('/images/banner-outline.png');
-    animation: firstImage ease 4s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-    background-position-y: center; 
+.sticker {
+  display: inline-block; margin-top: .8rem; padding: .2rem .5rem;
+  background: $spray; color: $asphalt;
+  font-weight: 800; font-size: .78rem; letter-spacing: .1em; text-transform: uppercase;
 }
 
-@keyframes firstImage {
-    0% {        
-        opacity: .1;
-    }
-    100% {
-        opacity: 1;
-    }
+// ---------- Home: wall strip ----------
+.walls {
+  background: $asphalt; color: $concrete;
+  padding-block: clamp(2.5rem, 6vw, 4rem);
+
+  h2 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(1.8rem, 3.5vw, 2.6rem); line-height: 1; margin: 0 0 1.4rem;
+  }
+  h2 span { color: $ochre; }
+  ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; list-style: none; margin: 0; padding: 0; }
+  figure { margin: 0; }
+  img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; }
+  figcaption { margin-top: .5rem; font-size: .85rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; }
 }
 
-.final-image {
-    animation: finalImage ease 4s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-    background-image: url('/images/banner-color.png');
-    background-size: cover;
-    background-position-y: center; 
-    height: 100vh;
+// ---------- Home: get involved ----------
+.involved {
+  background: $leaf; color: $paper;
+  padding-block: clamp(2.5rem, 6vw, 4rem);
+
+  .wrap { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 1.5rem 3rem; align-items: start; }
+  h2 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(2.2rem, 4.5vw, 3.2rem); line-height: .95; margin: 0;
+  }
+  p { margin: 0 0 1rem; max-width: 62ch; }
+  .button { background: $paper; color: $asphalt; &:hover { background: $ochre; } }
 }
 
-@keyframes finalImage {
-    0% {
-        opacity: .0;
-    }
-    100% {
-        opacity: 1;
-    }
+// ---------- Inner pages ----------
+.page-head {
+  background: $violet; color: $concrete;
+  padding-block: clamp(2.5rem, 7vw, 5rem) clamp(1.5rem, 4vw, 2.5rem);
+
+  h1 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(3.2rem, 10vw, 7rem); line-height: .9; margin: 0;
+  }
+  .page-sub { margin: .8rem 0 0; font-weight: 600; }
 }
 
+.prose {
+  padding-block: clamp(2rem, 5vw, 3.5rem) clamp(3rem, 6vw, 4.5rem);
 
-.masthead.home h1 {
-    animation: fadeInAnimation ease-in 3s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+  > * { max-width: 68ch; }
+  h2 {
+    font-family: $display; font-weight: 400; text-transform: uppercase;
+    font-size: clamp(1.9rem, 4vw, 2.6rem); line-height: 1; margin: 2.6rem 0 .8rem;
+  }
+  h3 { font-size: 1.25rem; margin: 2rem 0 .5rem; }
+  h4 { font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; margin: 2rem 0 .6rem; color: $violet; }
+  p { margin: 0 0 1rem; }
+  > :first-child { margin-top: 0; }
 }
 
-.atspanport {
-    animation: fadeInAnimation ease-in 4s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+// ---------- Footer and credits ----------
+.site-foot {
+  background: $asphalt; color: $concrete;
+  padding-block: 2.5rem 2rem;
+
+  a { color: $ochre; &:hover { color: $spray; } }
 }
 
-.masthead h1 {
-    animation: fadeInAnimation ease-in 2s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+.foot-main {
+  display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5rem 3rem;
+  padding-bottom: 1.8rem; border-bottom: 1px solid rgba($concrete, .2);
+
+  p { margin: 0; }
+  .foot-title { font-family: $display; text-transform: uppercase; font-size: 1.6rem; line-height: 1; margin-bottom: .6rem; }
 }
 
-@keyframes fadeInAnimation {
-    0% {
-        opacity: 0;
-    }
+.foot-links { list-style: none; margin: 0; padding: 0; display: grid; gap: .4rem; font-weight: 600; }
 
-    50% {
-        opacity: .3;
-    }
-    100% {
-        opacity: 1;
-    }
+.credits {
+  padding-top: 1.4rem;
+  font-size: .75rem;
+  line-height: 1.55;
+  color: rgba($concrete, .75);
+
+  h2 {
+    font-family: $text; font-size: .72rem; font-weight: 600;
+    letter-spacing: .1em; text-transform: uppercase; margin: 0 0 .5rem;
+    color: $concrete;
+  }
+  ul { list-style: none; margin: 0; padding: 0; columns: 2 26rem; column-gap: 2.5rem; }
+  li { break-inside: avoid; margin-bottom: .35rem; }
+  cite { font-style: italic; }
+  a { color: rgba($concrete, .9); }
 }
 
-.masthead.home h1 {
-    font-family: 'Mallory Book';
-    font-size: 12vw;
-    -webkit-text-stroke: 2px #00365b; /* width and color */
+// ---------- Small screens ----------
+@media (max-width: 820px) {
+  .hero { grid-template-columns: minmax(0, 1fr); min-height: 0; }
+  .hero figure { min-height: 0; height: 70vw; max-height: 460px; }
+  .intro .wrap, .involved .wrap { grid-template-columns: minmax(0, 1fr); }
+  .panels { grid-template-columns: minmax(0, 1fr); }
 }
 
-.masthead.page h1 {
-    font-family: 'Mallory Book';
-    font-size: 12vw;
-    -webkit-text-stroke: 2px #00365b; /* width and color */
+@media (max-width: 560px) {
+  .walls ul { grid-template-columns: minmax(0, 1fr); }
+  .walls img { aspect-ratio: 4 / 3; }
 }
 
-.masthead .lead {
-    color: #f9f9f9;
-    font-size: 1.4rem;
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
 }
-
-.atspanport {
-    text-shadow: 5px 2px 5px black;
-}
-
-// Featured panels
-
-.featured {
-    min-height: 300px;
-    background-size: cover;
-    border-bottom: 0;
-}
-
-.featured-img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-}
-
-.flush-col {
-    padding: 0;
-}
-
-// Buttons
-
-button {
-    font-family: 'Mallory Book' !important;
-}
-
-.caption {
-    font-size: 0.8rem;
-}
-
-.u-email {
-    text-decoration: none;
-}
-
-blockquote {
-    margin-left: 1rem;
-    font-style: italic;
-}
-
-
-
-
-
-
-
-
-
-  
