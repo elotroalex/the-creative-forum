@@ -39,7 +39,7 @@ You, soon we hope!
 
 ## What we do
 
-The Creative Forum pursues its mission through programs, events and projects. We are in the early stages of running a number of regular programs to support our mission, and welcome kin initiatives to join our umbrella. Our encounters are our bread and butter. We organize and host a variety of workshops, talks, and performances aligned with our mission. Last, but not least, we help incubate creative research projects and ideas through our project-based ateliers.
+The Creative Forum is the home of the department's creative work. It showcases [Variantes](https://campuspress.yale.edu/variantes/), our literary magazine, and our upcoming film festival, and it will welcome new creative projects as they take shape. We also support the collaborative activities described below, and welcome kin initiatives to join our umbrella. Talks, readings and other events now live on the [department website](https://span-port.yale.edu/).
 
 ## A brief history
 
