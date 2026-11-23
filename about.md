@@ -39,7 +39,7 @@ You, soon we hope!
 
 ## What we do
 
-The Creative Forum is the home of the department's creative work. It showcases [Variantes](https://campuspress.yale.edu/variantes/), our literary magazine, and our upcoming film festival, and it will welcome new creative projects as they take shape. We also support the collaborative activities described below, and welcome kin initiatives to join our umbrella. Talks, readings and other events now live on the [department website](https://span-port.yale.edu/).
+The Creative Forum is the home of the department's creative and digital humanities work. It showcases [Variantes](https://campuspress.yale.edu/variantes/), our literary magazine, and our upcoming film festival, and it welcomes new projects as they take shape. We also support the collaborative activities described below, and welcome kin initiatives to join our umbrella. Talks, readings and other events now live on the [department website](https://span-port.yale.edu/).
 
 
 <!-- ## A brief history
@@ -54,7 +54,7 @@ Here are activities we encourage and are ready to support. We want more, and are
 
 At the Forum, we believe that scholarship in the humanities has always been a collective endeavor. The production of books and academic articles is almost always the result of a long process of collaboration and exchange, with many intentions and layers of invisible labor at play. We would like to make this process a bit more visible, and more than that, to encourage the development of new forms of collective research, writing and production. To that effect, we invite proposals for collaborative research projects to be incubated at the Forum. If you have an idea, we might be able to help in various ways: to find collaborators, to find a way to publish your work, to shape the scope of the project realistically, and more. If you are a graduate researcher or undergraduate student, we encourage you to sign up for a group directed study with us. If you are a faculty colleague and you have an idea that exceeds the work of a solo scholar, reach out to us. To learn more, please [reach out to us](mailto:alex.gil@yale.edu).
 
-### Digital and Experimental Methods Series
+### Digital and Experimental Methods Workshops
 
 Every semester, we can hold workshops on digital and experimental humanities methods and tools. These workshops are open to all members of the Yale community. We will be happy to help you organize a workshop on a topic of your choice. Get in touch to learn more, and keep an eye out on the [department website](https://span-port.yale.edu/) for upcoming workshops.
 
