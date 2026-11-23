@@ -41,9 +41,10 @@ You, soon we hope!
 
 The Creative Forum is the home of the department's creative work. It showcases [Variantes](https://campuspress.yale.edu/variantes/), our literary magazine, and our upcoming film festival, and it will welcome new creative projects as they take shape. We also support the collaborative activities described below, and welcome kin initiatives to join our umbrella. Talks, readings and other events now live on the [department website](https://span-port.yale.edu/).
 
-## A brief history
 
-The Creative Forum was founded in 2022 after a successful vote by the [Department of Spanish & Portuguese](https://span-port.yale.edu). The then chair of the department, Jesús R. Velasco, asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. Planning did not stop The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward.
+<!-- ## A brief history
+
+The Creative Forum was founded in 2022 after a successful vote by the [Department of Spanish & Portuguese](https://span-port.yale.edu). The then chair of the department, Jesús R. Velasco, asked Alex Gil to join him in shaping the direction of the Forum with the help of the first fellow, Gaëlle Le Calvez House. Planning for the Creative Forum occupied the team during the 2022—2023 academic year. Planning did not stop The Forum from beginning to sponsor and help organize a series of likeminded events in the Spring 2023. With the launch of the Forum's web home in the Fall of 2023, the team is now ready to begin the work of building a community of practice around the creative arts and scholarship at Yale in earnest. Onward. -->
 
 ## Open for business
 
