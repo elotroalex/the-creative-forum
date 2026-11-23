@@ -24,7 +24,7 @@ Senior Lecturer II & Associate Research Faculty of Digital Humanities
 Assistant Professor of Latin American Cultures
 
 [Mayte LÓPEZ](https://span-port.yale.edu/people/mayte-lopez)  
-Lector of Spanish
+Senior Lector I & Associate Research Scholar
 
 [Olivia LOTT](https://span-port.yale.edu/people/olivia-lott)  
 Assistant Professor of Spanish
